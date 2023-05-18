@@ -1,0 +1,2225 @@
+ID,MntWines,MntMeatProducts,NumWebPurchases,NumCatalogPurchases,NumStorePurchases,Education,Average Income binned
+5524,635,546,8,10,4,Graduation,More average
+2174,11,6,1,1,2,Graduation,Less average
+4141,426,127,8,2,10,Graduation,More average
+6182,11,20,2,0,4,Graduation,Less average
+5324,173,118,5,3,6,PhD,More average
+7446,520,98,6,4,10,Master,More average
+965,235,164,7,3,7,Graduation,More average
+6177,76,56,4,0,4,PhD,Less average
+4855,14,24,3,0,2,PhD,Less average
+5899,28,6,1,0,0,PhD,Low
+1994,5,6,1,0,2,Graduation,More average
+387,6,11,2,0,3,Basic,Low
+2125,194,480,3,4,8,Graduation,More average
+8180,233,53,6,1,5,Master,More average
+2569,3,17,1,0,3,Graduation,Low
+2114,1006,115,7,6,12,PhD,High
+9736,53,19,3,0,3,Graduation,Less average
+4939,84,38,4,1,6,Graduation,Less average
+6565,1012,498,11,4,9,Master,High
+2278,4,19,2,1,3,2n Cycle,Less average
+9360,86,73,4,2,5,Graduation,Less average
+5376,1,1725,0,28,0,Graduation,Low
+1993,867,86,2,3,9,PhD,More average
+4047,384,102,6,2,9,PhD,More average
+1409,270,27,7,1,5,Graduation,Less average
+7892,6,25,2,1,3,Graduation,Low
+2404,173,30,5,1,4,Graduation,More average
+5255,5,3,27,0,0,Graduation,More average
+9422,36,42,2,1,4,Graduation,Less average
+1966,684,801,6,9,10,PhD,High
+6864,8,10,3,0,3,Master,Low
+3033,112,44,2,5,3,Master,Less average
+5710,110,5,2,1,4,Graduation,Less average
+7373,96,96,4,1,6,PhD,Less average
+8755,482,471,3,5,9,Master,More average
+10738,40,19,2,0,3,Master,Less average
+4339,702,151,5,6,12,PhD,More average
+10755,6,14,3,1,2,2n Cycle,Low
+8595,55,6,1,1,3,Graduation,Less average
+2968,437,206,7,10,5,PhD,Less average
+8601,421,536,8,6,5,Graduation,High
+503,13,29,2,0,3,Master,Low
+8430,9,6,0,0,3,Graduation,Low
+7281,81,50,1,3,4,PhD,More average
+2139,3,10,2,0,3,Master,Low
+1371,123,266,2,4,9,Graduation,High
+9909,3,14,3,1,3,2n Cycle,Low
+7286,13,15,2,0,2,Graduation,Less average
+7244,48,48,2,1,4,Graduation,More average
+6566,826,317,5,2,12,PhD,More average
+8614,245,125,4,2,10,Graduation,More average
+4114,650,780,6,9,13,Master,High
+1331,12,20,2,0,3,Graduation,Less average
+2225,510,550,4,9,7,Graduation,High
+9381,328,124,4,2,10,Graduation,More average
+6260,984,432,3,10,13,Master,High
+10383,295,482,5,5,10,Graduation,More average
+7437,13,8,1,0,4,Graduation,Less average
+8557,11,22,2,0,3,Graduation,More average
+8375,447,28,8,2,6,PhD,More average
+6853,712,538,3,6,11,Master,High
+3076,452,102,4,2,12,Graduation,More average
+1012,523,134,8,2,10,Graduation,More average
+6518,546,48,7,3,8,PhD,More average
+4137,398,367,7,4,4,Graduation,More average
+8082,1,6,1,1,2,Graduation,Low
+1386,10,1,1,0,2,Graduation,Less average
+9369,688,309,11,10,10,2n Cycle,High
+4477,247,159,5,2,10,Graduation,More average
+1357,856,487,2,5,5,Graduation,High
+1402,496,460,4,8,6,Master,More average
+10629,25,43,3,0,3,2n Cycle,More average
+6312,258,291,10,3,13,Graduation,More average
+8132,565,65,9,2,8,PhD,More average
+1050,14,13,2,1,4,Graduation,Less average
+5846,2,6,1,0,2,Graduation,Less average
+1859,721,925,7,6,5,Master,High
+7503,1032,779,5,8,9,Graduation,High
+10401,1,5,0,0,3,2n Cycle,Less average
+1618,577,64,10,1,8,Graduation,More average
+3332,64,68,3,1,4,Graduation,Less average
+2261,4,5,1,0,2,Graduation,Less average
+5346,25,19,3,0,3,2n Cycle,Low
+4119,112,44,2,5,3,Master,Less average
+535,163,424,3,10,13,Graduation,High
+5268,17,14,1,0,4,Graduation,Less average
+273,130,16,3,1,4,Master,Less average
+4452,292,37,6,1,6,Graduation,More average
+8504,350,568,5,6,7,Graduation,High
+771,135,39,2,2,5,Graduation,More average
+8996,230,192,7,2,8,PhD,More average
+9235,7,8,1,0,2,Graduation,More average
+5798,445,359,2,4,8,Master,More average
+11178,15,10,1,0,3,Master,Less average
+2230,27,14,3,1,3,PhD,Low
+7516,5,11,2,0,3,Graduation,Less average
+7247,505,26,7,4,6,Graduation,Less average
+11100,51,7,2,0,3,Graduation,More average
+4646,207,447,5,7,12,2n Cycle,High
+3037,135,92,5,2,7,PhD,Less average
+1473,53,5,2,0,3,2n Cycle,Less average
+1016,41,6,2,0,3,PhD,Less average
+4518,386,183,9,5,11,Graduation,High
+9370,562,276,6,3,6,PhD,More average
+8908,217,690,3,11,5,Graduation,High
+8373,1,6,1,0,3,Basic,Low
+7533,144,32,4,1,4,Graduation,Less average
+2683,295,271,6,4,12,Graduation,More average
+3629,76,31,3,1,3,Graduation,Less average
+10991,454,106,5,4,4,Master,High
+5077,425,292,6,6,11,Graduation,High
+7431,1332,311,7,4,5,PhD,More average
+3267,527,21,8,1,8,Master,More average
+999,490,125,6,7,11,Graduation,High
+9215,378,101,6,4,6,PhD,Less average
+2286,64,21,2,1,3,Graduation,More average
+1592,547,812,4,6,5,Graduation,High
+367,47,94,9,1,5,2n Cycle,Less average
+5234,12,25,1,1,3,2n Cycle,Less average
+9862,1,7,2,0,3,Graduation,Low
+9805,320,133,6,2,10,Master,More average
+6205,34,29,2,1,3,Master,Less average
+8442,9,7,1,0,3,Master,Low
+7386,17,14,1,0,3,Graduation,Less average
+1491,162,124,3,4,7,2n Cycle,More average
+11071,450,951,3,6,6,Graduation,High
+3381,70,16,2,0,4,Master,More average
+8268,352,27,6,1,7,PhD,More average
+11051,492,110,6,3,10,PhD,High
+8026,120,73,5,4,5,Graduation,More average
+433,534,47,11,1,6,Master,More average
+9597,236,189,7,2,9,Graduation,More average
+1295,231,196,6,5,7,Graduation,More average
+5290,220,33,5,1,5,PhD,Less average
+1685,796,590,4,5,13,PhD,More average
+5342,0,3,1,0,3,Basic,Low
+9579,53,34,2,2,2,PhD,Less average
+7660,15,8,1,1,2,PhD,Less average
+1461,17,12,2,0,3,PhD,Less average
+821,962,921,5,4,12,Master,High
+11084,738,232,3,5,7,Master,More average
+8690,399,756,5,7,10,Graduation,High
+2937,614,132,8,5,9,PhD,More average
+9701,32,41,4,2,3,Graduation,Less average
+9949,598,141,3,3,6,Graduation,More average
+10837,2,18,2,0,3,Graduation,Low
+3120,6,10,1,0,2,Graduation,Less average
+5885,73,90,4,1,4,2n Cycle,Less average
+4050,42,29,2,1,4,Master,Less average
+3830,295,78,4,4,7,Master,More average
+7987,346,48,8,1,6,Graduation,More average
+7798,233,57,7,1,5,2n Cycle,Less average
+92,5,24,3,0,4,Graduation,Less average
+7055,888,57,8,5,11,PhD,More average
+10240,997,269,10,4,6,Graduation,More average
+3025,212,69,6,1,5,Graduation,Less average
+9283,8,7,0,0,3,Graduation,More average
+9970,42,57,1,1,6,Graduation,More average
+2730,536,387,3,4,10,Graduation,High
+2795,5,3,1,0,2,Master,Less average
+9260,1349,249,10,6,9,PhD,More average
+8182,53,49,3,0,4,Graduation,Low
+10095,1001,240,5,4,10,PhD,More average
+4370,18,32,2,0,4,Graduation,Less average
+10573,125,98,6,7,4,Graduation,More average
+3712,212,33,3,2,6,Graduation,More average
+6637,277,305,3,4,7,Graduation,More average
+3152,15,19,2,1,3,Graduation,Less average
+5610,7,10,1,0,3,Graduation,Less average
+6460,12,6,2,0,3,Graduation,Less average
+1349,85,24,3,1,3,Graduation,More average
+1880,81,6,2,1,3,PhD,More average
+641,59,12,2,2,2,Graduation,More average
+8717,1149,449,11,8,8,PhD,High
+10314,847,119,9,10,5,PhD,High
+10854,29,14,2,0,3,PhD,Less average
+10492,2,5,0,0,3,Graduation,Less average
+6935,207,447,5,7,12,2n Cycle,High
+7698,152,22,4,1,4,PhD,More average
+3559,12,10,2,1,3,2n Cycle,Low
+10562,620,195,6,4,13,Master,More average
+10796,47,6,1,1,3,Master,Less average
+2563,1,7,2,0,3,Basic,Less average
+3518,10,18,1,1,2,Graduation,Low
+5823,35,2,1,0,4,PhD,Less average
+3934,356,107,7,1,8,Graduation,More average
+6982,783,537,4,10,9,Graduation,More average
+6431,42,18,2,0,3,PhD,Less average
+9733,1,10,1,1,2,Basic,Low
+5602,466,432,8,7,12,PhD,More average
+1324,23,21,3,0,3,Graduation,Less average
+326,235,45,5,1,6,Graduation,More average
+7224,10,10,1,1,2,Graduation,Less average
+6999,656,106,7,3,12,Master,More average
+9938,519,813,4,6,6,Graduation,High
+6422,344,482,5,6,5,Graduation,High
+3182,96,79,5,1,3,PhD,Less average
+7300,448,34,8,1,7,Graduation,More average
+10424,265,553,4,4,9,Graduation,High
+8727,587,337,11,6,9,Graduation,More average
+1030,22,13,1,0,3,PhD,Less average
+624,6,1,0,1,2,Master,Low
+5176,7,13,1,0,3,Graduation,Less average
+5552,81,113,4,2,5,Master,Less average
+868,54,7,2,0,3,Graduation,Less average
+380,1170,320,11,4,9,Graduation,More average
+2677,72,68,3,1,6,Graduation,Less average
+6521,613,319,4,6,9,Graduation,High
+6927,224,30,5,1,5,PhD,Less average
+2877,410,59,7,1,8,Master,Less average
+0,239,554,3,4,9,Graduation,More average
+1584,171,171,8,1,5,Graduation,Less average
+7264,12,4,1,0,2,2n Cycle,More average
+6274,1076,417,8,10,6,Master,High
+1377,182,33,4,1,5,Master,Less average
+454,824,162,11,4,11,Graduation,More average
+1755,30,25,1,1,4,2n Cycle,Less average
+2075,377,540,3,5,7,Graduation,More average
+4785,520,154,6,3,11,PhD,High
+9076,155,25,4,1,4,PhD,Less average
+7079,897,207,9,6,12,Graduation,More average
+4653,131,16,3,1,4,Graduation,Less average
+7375,297,79,8,2,4,Graduation,More average
+709,787,204,2,2,11,Graduation,More average
+460,792,740,3,5,8,PhD,High
+3726,4,9,1,0,2,PhD,Less average
+6798,231,137,5,1,8,Graduation,Less average
+5341,983,184,6,3,4,2n Cycle,High
+1606,3,8,1,0,2,Graduation,Less average
+9617,0,5,1,0,3,Graduation,Low
+3233,562,464,7,8,11,PhD,More average
+89,5,20,2,0,4,2n Cycle,Low
+2936,18,4,1,0,3,Master,Low
+9449,415,124,5,2,11,PhD,High
+7297,5,10,3,1,3,Graduation,Low
+313,901,757,6,5,10,Graduation,More average
+9940,382,276,6,4,4,Graduation,More average
+10735,14,7,2,0,2,Graduation,Low
+9529,559,503,3,9,9,Graduation,More average
+6439,789,133,11,5,8,Graduation,More average
+7411,11,5,1,0,3,PhD,Less average
+2176,1218,272,5,3,6,Graduation,High
+9265,925,179,9,4,6,Graduation,High
+8867,864,768,4,10,5,PhD,More average
+8932,960,183,9,6,6,Master,More average
+10236,16,25,2,0,3,Master,Less average
+6340,3,7,1,0,3,Graduation,Less average
+2227,45,52,3,1,5,2n Cycle,Less average
+10992,650,353,4,6,11,Graduation,High
+5304,24,8,1,0,3,PhD,Less average
+309,918,118,8,3,5,PhD,More average
+3406,138,87,3,2,7,Graduation,Less average
+2661,12,2,2,0,4,Graduation,Low
+3153,11,4,1,0,2,PhD,Less average
+10264,1,8,1,1,2,Graduation,Low
+1184,554,215,10,2,10,PhD,More average
+4200,167,62,4,1,6,Master,Less average
+9396,9,6,1,0,2,PhD,Less average
+2387,177,71,5,2,4,Master,Less average
+6690,38,22,3,1,3,Master,Less average
+1225,483,398,3,7,8,Graduation,High
+9703,77,35,3,2,2,PhD,Less average
+291,182,298,3,3,6,Graduation,More average
+4557,10,19,2,2,2,Graduation,Low
+2379,778,499,3,4,5,Graduation,More average
+5726,16,23,3,0,4,Master,Less average
+3066,167,43,4,2,4,PhD,More average
+6336,13,14,2,0,4,Graduation,Less average
+10967,33,40,2,0,4,Graduation,Less average
+2304,625,99,6,3,12,PhD,More average
+3445,216,224,7,4,10,Graduation,More average
+7828,68,396,3,3,5,Master,High
+3762,196,512,3,5,8,PhD,More average
+4391,635,100,9,3,9,Master,More average
+4669,4,9,3,0,4,Basic,Low
+10144,297,79,8,2,4,Graduation,More average
+8652,84,38,4,1,6,Graduation,Less average
+1672,204,149,5,1,8,PhD,More average
+8962,26,8,2,0,3,Master,Less average
+9974,15,20,3,1,2,Graduation,Less average
+10983,304,230,6,3,13,Graduation,High
+8148,285,242,6,2,12,Master,More average
+10102,395,565,5,11,5,Graduation,High
+4697,248,81,7,1,5,Master,Less average
+9262,20,5,1,0,3,2n Cycle,Less average
+7254,39,56,3,1,3,Graduation,Less average
+4543,777,573,2,7,9,Graduation,High
+4927,8,22,3,0,3,Graduation,Low
+10451,9,3,0,0,3,Graduation,Less average
+2926,1241,80,3,6,11,Master,More average
+2874,6,7,1,0,3,2n Cycle,Less average
+9738,65,16,3,0,3,Master,Less average
+7119,395,263,2,3,6,Graduation,More average
+3924,801,80,8,3,12,PhD,More average
+5827,36,12,3,1,3,Graduation,Less average
+5596,513,154,9,2,9,2n Cycle,More average
+10812,37,46,2,1,3,PhD,Less average
+1717,80,93,5,1,4,Graduation,Less average
+9491,14,21,3,1,3,Graduation,Low
+9274,525,112,6,7,9,Master,High
+6609,1,25,3,0,3,Graduation,Less average
+6963,675,400,2,5,10,Graduation,High
+4440,509,27,8,3,6,Master,More average
+1379,154,46,4,2,4,Master,Less average
+10032,3,14,3,1,3,Graduation,Low
+2826,25,8,2,0,3,Graduation,Low
+2437,861,461,6,5,12,Graduation,More average
+6320,768,561,6,6,10,Master,More average
+3050,185,28,3,1,6,Graduation,More average
+231,24,7,2,0,3,Master,Less average
+2392,44,21,3,0,3,Graduation,Less average
+9478,91,128,4,3,6,Graduation,More average
+113,11,7,1,0,3,Graduation,Less average
+2863,738,172,2,3,10,Graduation,More average
+1802,412,119,3,3,12,Graduation,More average
+520,3,7,1,0,2,Graduation,Less average
+8275,16,3,1,0,2,PhD,Less average
+9750,731,353,10,3,5,PhD,More average
+2607,424,118,8,2,8,Graduation,Less average
+7214,792,275,4,8,5,Graduation,More average
+5835,21,28,2,0,4,PhD,Low
+3896,22,11,1,0,3,Graduation,Less average
+10350,33,5,1,0,3,PhD,More average
+7786,68,59,3,1,4,PhD,Less average
+2861,9,6,1,0,2,Graduation,Low
+663,40,15,1,1,3,PhD,Less average
+10675,909,218,9,3,5,PhD,More average
+2521,23,13,1,1,2,Master,Less average
+9592,11,9,2,0,3,Graduation,Low
+10151,317,247,4,5,12,Graduation,More average
+7381,797,293,11,4,6,Graduation,High
+4099,10,16,1,0,3,Graduation,Less average
+9560,856,570,7,6,8,Graduation,High
+10172,456,832,4,5,11,Graduation,More average
+11191,37,38,2,1,4,Graduation,Less average
+9707,1103,45,4,2,11,PhD,More average
+6245,378,68,3,5,8,PhD,More average
+8234,1,7,1,0,2,Basic,Less average
+1411,204,204,2,9,4,Graduation,High
+8553,30,9,1,0,3,Graduation,Less average
+1826,189,379,4,4,6,Graduation,High
+8842,15,12,2,0,3,Graduation,Less average
+11030,9,3,1,0,2,Master,Less average
+2579,495,255,6,7,9,Graduation,More average
+175,656,455,8,4,8,Graduation,More average
+9185,452,514,4,6,5,PhD,More average
+11056,546,410,3,4,10,Graduation,More average
+9365,1048,217,11,3,5,PhD,More average
+6201,22,14,2,0,3,Graduation,Less average
+2061,78,11,2,0,4,Graduation,More average
+6184,561,785,3,3,8,PhD,More average
+6142,629,177,5,3,5,Master,More average
+4107,269,69,4,6,4,PhD,Less average
+7274,736,818,4,7,10,Graduation,High
+9336,512,83,6,2,10,PhD,More average
+2958,19,10,2,1,4,Graduation,Less average
+933,9,6,1,0,2,PhD,Less average
+5837,247,160,6,3,6,Graduation,More average
+10704,404,92,6,2,9,Graduation,More average
+5125,333,815,4,10,11,Graduation,High
+4432,2,20,2,0,3,Graduation,Less average
+5955,833,549,4,3,8,Graduation,More average
+2928,789,142,2,4,8,PhD,More average
+5680,10,7,1,0,3,2n Cycle,Less average
+10313,159,45,5,1,4,Graduation,Less average
+2557,7,6,1,1,2,Master,Less average
+1245,977,253,4,3,12,Graduation,More average
+1519,38,22,3,0,3,PhD,Less average
+10703,57,27,3,2,2,Master,Less average
+1726,3,15,1,1,2,Graduation,Low
+4459,10,14,1,0,3,Graduation,Less average
+1729,1043,97,3,5,10,PhD,More average
+1517,3,13,1,0,3,Graduation,Less average
+2098,11,5,1,0,2,PhD,Less average
+9543,3,5,0,0,3,Graduation,Low
+6878,43,96,4,1,6,Graduation,Less average
+3310,73,90,4,1,4,2n Cycle,Less average
+2724,12,1,0,1,2,Master,Less average
+948,4,7,1,2,2,Graduation,Low
+6720,314,53,7,3,4,Master,Less average
+6202,571,142,4,5,13,Graduation,More average
+2066,70,11,2,1,3,Graduation,Less average
+9799,866,151,2,2,12,PhD,High
+8318,594,786,5,6,8,Graduation,High
+5642,140,61,3,1,6,Master,More average
+2669,375,335,5,4,6,Graduation,More average
+455,102,63,4,1,4,PhD,More average
+7683,554,113,5,3,12,Master,More average
+3428,919,505,4,9,10,PhD,More average
+7414,96,42,3,1,4,Graduation,Less average
+6354,5,16,1,1,2,Graduation,Low
+798,2,6,1,0,3,Graduation,Low
+8213,6,9,2,2,3,2n Cycle,Low
+2488,23,25,2,1,3,2n Cycle,Less average
+9999,610,125,9,4,9,Graduation,High
+7617,67,61,2,1,5,Graduation,Less average
+615,65,74,5,1,4,Graduation,Less average
+2552,416,26,6,3,6,PhD,More average
+194,23,11,1,0,3,Graduation,Less average
+3645,19,26,2,0,4,PhD,Less average
+8890,155,80,5,1,5,PhD,More average
+5049,14,24,3,0,2,PhD,Less average
+9973,370,92,7,1,8,Graduation,More average
+7301,4,11,3,0,3,2n Cycle,Low
+10882,407,221,4,3,6,Graduation,More average
+7030,1200,204,11,9,12,PhD,More average
+7422,85,54,5,1,7,Graduation,Less average
+3523,583,309,5,4,8,Graduation,High
+7106,483,591,3,5,10,PhD,High
+6504,2,9,2,1,3,2n Cycle,Low
+5067,966,282,2,7,11,Graduation,High
+4216,822,108,7,9,9,Graduation,High
+8581,604,100,10,2,8,Master,Less average
+5929,19,19,2,0,3,PhD,Less average
+3129,5,11,2,0,3,Graduation,Less average
+6528,2,2,1,0,2,Master,Low
+1361,1076,103,3,4,8,Master,High
+6932,1285,716,7,10,5,PhD,High
+7284,10,7,1,0,2,Graduation,Less average
+1340,551,792,6,7,13,Graduation,High
+8746,800,297,2,5,10,Graduation,High
+5987,2,11,1,0,4,2n Cycle,Low
+3767,378,189,5,5,12,Graduation,More average
+3725,1248,349,2,4,9,PhD,High
+4324,235,235,8,1,7,Graduation,Less average
+238,515,181,9,6,9,2n Cycle,More average
+6694,438,400,8,3,13,Graduation,High
+498,25,22,1,0,4,Graduation,Less average
+9347,31,7,1,0,3,Master,More average
+9699,357,271,6,2,12,Graduation,More average
+10664,400,35,9,1,5,Master,More average
+5455,99,15,2,1,4,PhD,Less average
+456,1,5,2,0,3,2n Cycle,Low
+5012,5,13,1,0,3,Graduation,Less average
+7495,77,31,2,1,5,PhD,More average
+5029,3,2,0,0,3,Graduation,Low
+10642,10,14,1,0,3,Graduation,Less average
+2106,0,3,1,0,3,2n Cycle,Low
+10364,0,1,1,0,2,Graduation,Low
+5954,76,74,5,0,4,Master,Less average
+1137,398,537,4,5,7,Graduation,High
+2541,14,11,2,0,3,Graduation,Low
+1142,208,82,3,2,9,PhD,More average
+2276,430,322,4,7,11,Graduation,More average
+2807,656,161,8,9,7,Graduation,More average
+6471,14,30,2,0,4,Master,Less average
+6131,141,106,4,2,8,2n Cycle,More average
+6233,507,364,9,5,10,Graduation,More average
+4148,164,103,5,1,6,Graduation,Less average
+4947,606,974,7,7,9,2n Cycle,High
+3225,116,72,4,1,5,Master,Less average
+7540,143,60,2,1,8,Graduation,More average
+10648,398,447,5,7,6,2n Cycle,More average
+1992,522,257,2,2,8,Graduation,More average
+7851,161,253,3,7,11,Graduation,More average
+8594,112,6,3,1,3,PhD,More average
+7059,483,398,3,7,8,Graduation,High
+2815,7,39,4,0,3,Graduation,Less average
+2416,789,420,2,8,9,PhD,More average
+7999,1239,413,5,6,5,PhD,High
+9213,4,5,1,0,2,Graduation,Less average
+9697,335,127,7,2,8,Graduation,More average
+3916,639,166,7,3,12,PhD,Less average
+2021,563,384,6,10,13,Graduation,More average
+1581,2,8,1,0,2,Graduation,Less average
+564,746,125,8,6,9,PhD,More average
+6619,22,13,1,0,3,Graduation,Less average
+9081,4,6,1,1,2,Graduation,Low
+178,478,193,8,3,11,Graduation,More average
+916,20,4,1,0,3,PhD,Less average
+5512,451,39,7,1,8,Master,More average
+8970,371,39,6,2,7,PhD,More average
+10581,281,84,7,3,4,Graduation,Less average
+5300,19,19,2,1,2,Master,Less average
+5154,26,13,2,0,3,Master,Less average
+8346,138,35,6,2,2,Graduation,Less average
+1676,213,44,4,2,5,Graduation,Less average
+9286,407,100,5,9,4,Master,High
+2426,483,114,5,10,13,PhD,High
+5172,738,232,3,5,7,Master,More average
+5562,502,109,7,2,10,Graduation,More average
+3436,11,5,1,0,3,Graduation,Low
+3921,24,108,4,1,4,2n Cycle,Less average
+3403,1170,594,2,5,12,PhD,High
+22,185,88,6,1,5,Graduation,Less average
+10965,983,389,3,5,13,Graduation,High
+9426,691,69,2,6,3,Master,More average
+6605,504,131,9,4,6,PhD,More average
+3136,317,265,5,3,11,Master,More average
+8737,29,9,2,0,3,Graduation,More average
+11088,1396,322,4,9,4,PhD,High
+716,529,356,6,7,11,PhD,More average
+466,388,218,4,3,13,Graduation,More average
+9135,13,21,1,1,2,Graduation,Less average
+10623,28,4,1,0,3,Master,Less average
+8151,16,21,4,1,3,Basic,Low
+5140,1047,140,4,3,12,PhD,More average
+10160,31,7,1,0,3,Master,More average
+4945,815,239,10,4,12,Graduation,More average
+10584,225,387,5,10,8,Graduation,More average
+6071,493,324,3,7,11,Graduation,High
+3386,34,66,2,1,4,Graduation,Less average
+8939,382,65,5,2,12,Graduation,More average
+9925,127,56,4,2,3,PhD,Less average
+4320,325,300,6,4,12,Graduation,More average
+5389,238,68,6,2,5,Graduation,Less average
+6036,1168,408,5,6,7,Master,High
+182,284,55,6,2,5,PhD,Less average
+203,1288,613,5,7,9,Master,High
+11025,65,46,3,1,3,Graduation,Less average
+10203,11,9,1,0,3,Graduation,Less average
+4607,227,389,4,5,7,Graduation,More average
+3711,1035,670,6,3,10,Master,High
+3696,27,12,2,0,3,Graduation,Less average
+2532,982,351,2,4,6,Master,More average
+9214,179,64,5,1,6,Graduation,Less average
+4943,1379,216,2,4,9,Graduation,More average
+35,32,64,2,2,3,Graduation,Low
+2258,8,15,1,0,3,Graduation,Less average
+4322,881,319,4,5,10,PhD,High
+713,141,153,4,4,6,Master,More average
+4702,1000,379,4,8,4,Graduation,More average
+3281,206,67,4,1,8,PhD,Less average
+702,162,83,4,3,8,2n Cycle,Less average
+2004,619,260,4,7,5,Graduation,More average
+4769,456,24,8,2,6,Master,More average
+4437,112,92,3,2,5,Graduation,More average
+8724,11,22,2,0,3,Graduation,Less average
+10741,172,112,6,1,5,Master,Less average
+1991,78,11,2,1,3,Graduation,Less average
+6931,464,292,8,3,4,Graduation,High
+11096,99,32,2,1,7,2n Cycle,More average
+304,19,19,3,0,3,Master,Low
+3665,1,8,3,0,3,2n Cycle,Low
+10591,63,83,4,1,4,Graduation,Less average
+5036,252,42,4,5,3,PhD,Less average
+5547,1478,403,7,6,6,PhD,High
+7822,198,252,4,6,8,Graduation,More average
+8541,8,10,2,0,4,2n Cycle,Low
+10955,416,925,3,6,4,Graduation,High
+4368,42,43,3,0,4,Graduation,Less average
+9671,14,21,3,1,2,Graduation,Low
+2256,17,3,1,0,3,Master,Less average
+4279,15,10,1,1,3,2n Cycle,Less average
+5371,6,24,3,1,2,Graduation,Low
+9240,458,24,6,2,8,PhD,More average
+9460,30,47,3,2,2,Graduation,Low
+9504,179,520,3,8,13,Master,High
+8692,90,97,4,1,5,Graduation,Less average
+448,308,137,6,2,11,PhD,More average
+8314,557,761,5,6,7,Graduation,High
+8420,7,13,2,0,4,2n Cycle,Low
+3174,1492,287,5,10,4,Graduation,High
+7685,30,12,2,0,4,Graduation,Less average
+3179,249,940,6,6,7,Graduation,High
+9780,465,132,8,3,13,Master,More average
+10681,129,259,6,3,12,2n Cycle,More average
+10232,174,81,3,2,7,PhD,Less average
+4184,189,29,3,2,5,PhD,More average
+9120,747,161,4,2,9,Graduation,More average
+891,6,2,1,0,2,Master,Less average
+10381,14,3,1,0,2,Graduation,Less average
+3525,12,4,1,0,2,Graduation,Less average
+6818,98,106,5,1,5,Graduation,Less average
+3526,32,5,1,0,3,PhD,Less average
+8181,51,49,4,1,3,2n Cycle,Less average
+1029,200,44,5,1,5,PhD,More average
+7369,25,25,2,0,3,Master,Less average
+2574,1050,144,6,4,8,PhD,More average
+8159,117,22,4,1,3,Graduation,More average
+1160,9,17,3,0,3,Graduation,Low
+10242,56,11,2,0,4,PhD,Less average
+5253,145,46,4,2,4,Master,More average
+5966,203,10,3,1,6,PhD,Less average
+5314,270,27,7,1,5,Graduation,Less average
+5081,9,16,1,0,3,2n Cycle,Less average
+5123,37,23,2,1,3,Master,Less average
+5756,46,7,2,0,3,Graduation,Less average
+8036,31,13,2,1,4,2n Cycle,Less average
+9058,1060,530,5,11,5,Graduation,High
+5057,264,188,4,4,10,Master,More average
+254,399,30,7,1,7,Graduation,More average
+4179,8,9,1,1,3,Graduation,Low
+3710,19,35,2,1,2,PhD,Less average
+7627,817,797,5,11,5,Master,High
+4501,292,635,3,7,9,Master,More average
+6424,12,2,1,0,3,Graduation,Less average
+3075,130,168,3,4,7,PhD,More average
+4992,6,16,3,1,2,Master,Low
+5252,16,18,2,0,3,Graduation,Low
+7444,19,9,1,0,3,Master,Less average
+6919,4,15,2,1,3,2n Cycle,Less average
+3537,31,31,3,0,4,Graduation,Less average
+10277,36,2,1,0,3,Graduation,Less average
+2453,526,135,5,3,12,Graduation,More average
+7972,400,519,3,4,9,Graduation,More average
+895,410,114,5,2,10,PhD,More average
+1177,80,26,3,1,3,Master,Less average
+7141,88,46,5,1,2,Master,Low
+7232,55,6,1,1,3,Graduation,Less average
+8477,5,13,1,0,3,Graduation,Less average
+2457,8,5,1,0,3,Basic,Less average
+988,410,592,6,4,7,Graduation,High
+7930,101,76,3,1,6,Master,Less average
+4587,162,53,3,1,7,Master,Less average
+6682,2,1,1,0,3,Basic,Low
+6222,25,8,2,0,3,Graduation,Low
+10299,389,248,6,3,13,PhD,Less average
+3083,215,87,6,2,5,Graduation,Less average
+8953,27,5,1,0,3,Master,Less average
+8650,5,10,1,0,3,Graduation,More average
+10862,179,83,1,2,9,Master,Less average
+2782,352,27,6,1,7,PhD,More average
+6941,17,12,2,1,2,Graduation,Less average
+10972,625,169,4,3,6,Graduation,More average
+10708,10,11,1,0,3,2n Cycle,Less average
+6583,390,323,6,8,6,2n Cycle,More average
+3641,10,15,2,0,3,Graduation,Low
+10156,215,507,8,4,7,Graduation,High
+4299,1001,572,11,11,5,Graduation,More average
+3469,19,33,3,0,3,PhD,Less average
+5063,41,129,4,1,4,Graduation,Less average
+10727,1181,199,7,3,13,PhD,More average
+9624,603,207,3,4,6,PhD,More average
+5156,129,259,6,3,12,2n Cycle,More average
+4376,10,15,2,1,3,2n Cycle,Less average
+8923,514,732,6,7,7,Graduation,High
+8461,14,1,1,0,2,Graduation,Less average
+6945,387,713,9,11,11,Graduation,High
+944,121,69,4,2,7,Graduation,More average
+1907,965,279,8,4,9,Master,More average
+701,707,250,6,2,8,Graduation,More average
+3856,571,142,4,5,13,Graduation,More average
+4149,586,653,5,9,6,PhD,High
+2131,1063,102,9,4,6,PhD,More average
+2942,305,27,5,4,4,Graduation,Less average
+1173,1200,758,4,2,6,Master,High
+4381,163,40,3,1,6,PhD,Less average
+3376,125,73,3,1,6,Master,More average
+4679,721,152,7,6,12,Master,High
+10928,315,62,7,1,7,Graduation,More average
+4248,1000,711,4,6,9,Master,High
+6728,16,17,1,0,3,Graduation,Less average
+6661,757,217,9,6,12,Graduation,More average
+4725,30,25,1,1,4,PhD,More average
+3277,219,100,7,1,5,Graduation,Less average
+2564,111,28,3,1,4,Graduation,More average
+946,45,52,3,1,5,2n Cycle,Less average
+3867,410,420,9,3,13,PhD,More average
+6940,100,39,3,2,3,PhD,Less average
+55,509,65,7,2,9,Graduation,More average
+7093,3,5,0,0,3,Graduation,Low
+5084,445,213,6,4,13,Graduation,More average
+1777,2,11,2,0,3,Basic,Low
+8162,4,11,1,0,3,Master,Low
+10826,6,7,1,1,2,Graduation,Low
+8754,14,3,1,0,2,PhD,Less average
+1987,1,11,2,0,3,Basic,Low
+11007,26,6,1,0,3,PhD,Less average
+7426,111,37,3,1,5,2n Cycle,More average
+9153,418,428,7,8,10,PhD,More average
+10379,327,122,5,2,9,Master,More average
+9204,371,194,4,3,6,Graduation,More average
+3197,275,107,6,4,8,Graduation,High
+2920,789,142,2,4,8,PhD,More average
+6961,1,5,1,0,2,Graduation,Less average
+4673,1004,145,10,3,5,PhD,High
+9937,187,149,2,2,12,Graduation,More average
+8779,56,76,4,1,3,2n Cycle,Less average
+9596,365,117,3,3,13,PhD,More average
+2891,595,123,8,9,4,Graduation,More average
+4910,1132,384,11,5,13,Graduation,More average
+75,34,137,8,1,5,2n Cycle,Less average
+10120,116,82,3,1,6,Graduation,Less average
+6327,565,435,2,8,6,Graduation,More average
+10142,372,126,5,2,11,PhD,More average
+9826,899,838,5,6,10,PhD,High
+10767,760,480,3,5,12,PhD,High
+7279,260,559,4,6,4,PhD,More average
+7230,459,24,4,5,7,PhD,More average
+143,466,224,5,3,4,Graduation,More average
+450,67,80,1,4,4,Master,Less average
+9316,2,7,1,0,3,Basic,Low
+6379,67,20,2,2,2,Master,Less average
+9239,92,18,2,1,4,Master,More average
+8315,4,11,1,0,2,Graduation,Less average
+2868,20,28,2,0,3,PhD,Less average
+10888,273,178,8,4,6,Graduation,Less average
+1277,434,388,10,7,10,Graduation,High
+9977,321,309,9,3,5,Graduation,High
+10196,212,177,8,2,8,Graduation,More average
+6384,909,278,5,2,11,Graduation,More average
+8029,1184,352,3,4,7,Master,High
+968,112,21,4,1,4,Master,Less average
+6988,656,455,8,4,8,Graduation,More average
+4472,23,8,1,1,3,PhD,Less average
+6991,537,42,9,3,6,Graduation,Less average
+3336,712,45,2,4,5,PhD,More average
+4301,23,13,1,1,2,Master,Less average
+1940,1,4,1,0,2,Graduation,Low
+1272,664,83,7,5,10,Master,More average
+1388,6,21,2,1,3,Graduation,Less average
+1044,299,201,5,4,8,Graduation,More average
+6969,99,66,4,1,5,Graduation,More average
+10479,749,294,3,2,5,PhD,High
+3619,345,501,5,3,8,2n Cycle,High
+1715,9,18,2,0,3,Graduation,Low
+10159,440,368,11,5,9,Graduation,More average
+1463,8,5,1,0,2,Graduation,Less average
+5114,670,249,5,4,5,Master,High
+4990,524,134,11,1,8,Graduation,More average
+4329,6,6,1,0,3,PhD,Low
+10936,597,597,5,6,4,Graduation,More average
+4692,7,12,4,1,2,Graduation,Low
+7212,54,7,2,0,3,Graduation,Less average
+6086,445,706,6,5,12,Graduation,High
+437,294,218,3,8,11,Master,High
+11171,292,77,6,3,5,Master,More average
+11101,412,132,11,6,8,Graduation,High
+5329,8,3,0,0,3,PhD,Less average
+610,349,78,7,2,6,PhD,More average
+9384,328,124,4,2,10,Graduation,More average
+5956,144,99,6,1,4,PhD,Less average
+10430,1126,211,4,3,4,Graduation,High
+7875,967,617,4,8,13,Graduation,More average
+7072,432,341,8,5,4,Graduation,More average
+6255,138,63,4,1,7,Master,More average
+6516,0,1,1,0,2,Basic,Low
+5564,509,497,7,5,6,Graduation,More average
+5682,948,86,6,9,11,PhD,More average
+7458,39,25,3,0,3,Master,Less average
+5237,28,21,2,1,3,PhD,Less average
+7761,13,24,3,0,4,2n Cycle,Less average
+5278,307,360,6,9,5,Graduation,High
+3560,901,345,4,4,11,Graduation,High
+7235,2,12,2,0,4,2n Cycle,Low
+10548,283,372,3,8,12,Graduation,More average
+2281,4,7,1,0,2,Graduation,Less average
+4073,769,252,10,10,7,2n Cycle,More average
+6974,518,742,6,10,5,PhD,High
+7938,350,66,3,2,10,PhD,More average
+7094,445,213,6,4,13,Graduation,More average
+3667,778,689,8,5,11,Graduation,High
+7723,709,374,8,6,6,Graduation,High
+3870,359,314,7,3,13,2n Cycle,More average
+4012,799,375,7,6,5,PhD,More average
+5909,895,101,3,4,8,Graduation,More average
+10470,40,23,2,1,3,Master,Less average
+6488,76,7,3,2,2,PhD,Less average
+10270,11,22,3,0,3,2n Cycle,Less average
+6887,245,223,8,1,8,Graduation,High
+6406,647,391,6,4,10,Master,High
+7573,39,9,2,1,2,PhD,Less average
+4508,203,305,2,11,5,Graduation,High
+221,138,38,3,2,4,Graduation,Less average
+5331,587,898,3,6,7,Graduation,High
+1911,595,291,11,5,12,Graduation,More average
+20,43,23,2,1,4,2n Cycle,Less average
+8786,301,74,6,1,7,Master,More average
+10582,180,348,5,2,12,Graduation,More average
+1915,794,243,8,5,6,PhD,High
+8897,392,91,7,3,7,Graduation,Less average
+2371,39,22,2,0,4,Graduation,Less average
+4303,107,12,0,0,1,PhD,Low
+6825,13,3,1,0,2,Graduation,Less average
+1072,70,17,2,1,3,PhD,Less average
+4964,680,392,2,11,4,PhD,More average
+2461,26,11,1,0,3,Master,More average
+10736,522,522,6,9,5,Graduation,More average
+3194,412,546,4,4,10,PhD,More average
+10839,6,5,1,0,3,Graduation,Less average
+49,2,6,1,1,2,Graduation,Low
+4290,1,8,1,0,2,Graduation,Less average
+10219,6,15,1,0,3,Graduation,Less average
+4211,4,5,2,0,3,Basic,Low
+1135,18,19,3,0,4,Master,Low
+6299,324,186,6,8,4,PhD,Less average
+10846,327,125,7,1,8,Master,Less average
+347,229,71,7,1,5,Graduation,Less average
+6543,521,706,3,6,4,Master,More average
+10446,184,446,5,4,7,PhD,High
+3479,4,11,2,0,3,Graduation,Low
+11075,183,64,3,3,5,Graduation,More average
+4442,31,35,1,1,5,Graduation,Less average
+199,219,60,4,1,7,Master,Less average
+6722,479,136,10,3,7,PhD,More average
+796,584,212,11,4,8,2n Cycle,More average
+3749,627,597,6,5,12,Graduation,More average
+8523,24,16,4,0,3,Graduation,Low
+310,330,159,4,4,9,Master,More average
+8629,19,10,1,0,3,Graduation,Less average
+236,28,29,2,1,4,Graduation,Less average
+9930,606,228,6,8,13,PhD,High
+3483,1039,204,2,8,12,Graduation,Less average
+4599,411,26,7,1,7,Master,Less average
+7326,34,19,1,1,3,Master,More average
+7352,161,136,3,4,6,Graduation,More average
+2350,623,178,3,2,8,Graduation,More average
+9145,604,470,5,9,6,Graduation,More average
+2964,3,8,1,1,2,Graduation,Less average
+5585,12,17,2,0,3,Graduation,Low
+9687,184,256,5,4,6,Graduation,More average
+3732,393,239,5,7,9,Master,More average
+6303,410,747,5,5,12,PhD,High
+11176,376,83,5,4,7,PhD,More average
+2986,7,4,1,0,2,Graduation,Less average
+7462,68,226,10,2,4,Graduation,Low
+3900,642,49,9,2,9,Graduation,More average
+7034,8,9,2,0,3,2n Cycle,Low
+9493,840,804,5,4,8,PhD,High
+1143,7,13,2,0,3,Graduation,Low
+1,464,64,7,3,7,Graduation,More average
+3855,30,47,3,2,2,Graduation,Low
+5536,1492,287,5,10,4,Graduation,High
+5989,752,476,10,2,11,2n Cycle,High
+9499,1279,287,3,4,7,Graduation,High
+6768,22,8,1,0,3,Graduation,Less average
+2150,860,409,8,9,4,PhD,High
+6646,3,5,1,0,3,Graduation,Low
+4887,10,28,2,0,3,PhD,More average
+8560,351,156,6,4,7,Graduation,Less average
+3321,421,90,7,3,7,PhD,More average
+11003,2,7,2,0,3,2n Cycle,Low
+10402,25,9,1,0,3,Graduation,Less average
+9904,336,274,6,5,12,Graduation,More average
+6141,191,97,6,1,5,Master,Less average
+5687,563,774,7,7,12,Graduation,High
+10856,31,6,1,0,3,2n Cycle,Less average
+5121,479,82,7,6,5,Graduation,More average
+4186,18,15,2,1,3,Graduation,Less average
+368,91,52,3,2,6,Graduation,Less average
+3312,5,24,3,0,4,Graduation,Less average
+11121,2,28,4,0,3,Graduation,Low
+5332,362,431,3,6,7,2n Cycle,High
+5848,724,929,5,6,7,Graduation,High
+10343,605,399,3,6,8,2n Cycle,More average
+5935,547,140,7,5,8,Master,More average
+2895,104,54,3,1,5,Graduation,Less average
+10262,8,15,3,1,3,Graduation,Low
+7848,224,25,5,3,3,Graduation,Less average
+9477,384,102,6,2,9,PhD,More average
+4856,556,845,7,7,10,2n Cycle,High
+7186,24,2,1,1,2,PhD,Less average
+5794,408,21,7,1,7,PhD,Less average
+1456,265,303,10,2,12,Graduation,More average
+4877,34,7,1,0,3,Master,Less average
+425,374,116,6,2,11,Graduation,More average
+3007,27,10,1,0,3,Graduation,Less average
+1031,600,350,6,9,10,2n Cycle,High
+4297,13,18,2,0,3,Graduation,Low
+807,167,89,6,1,4,Master,Less average
+9553,0,3,0,0,3,Graduation,Low
+4271,46,69,4,1,6,2n Cycle,Less average
+4120,88,78,6,1,4,2n Cycle,Less average
+2036,243,119,4,2,8,PhD,More average
+115,275,68,5,1,8,Master,Less average
+4259,6,4,1,0,2,Master,Low
+8687,121,90,2,3,8,Graduation,More average
+2447,4,15,2,0,3,Graduation,Less average
+10140,1308,396,5,7,4,PhD,More average
+9353,515,267,5,5,4,Graduation,More average
+3623,4,16,4,0,3,Graduation,Low
+738,48,57,3,1,4,2n Cycle,Less average
+7631,562,168,5,7,10,Master,More average
+4789,769,500,4,8,5,Graduation,High
+773,379,93,6,6,4,Master,Less average
+10602,29,59,3,0,4,Graduation,Less average
+1446,387,569,6,9,12,Master,High
+3270,12,38,3,1,3,2n Cycle,Low
+8443,6,12,3,1,2,Graduation,Low
+9653,27,14,2,0,3,Graduation,Less average
+8916,9,5,0,0,3,Graduation,Less average
+8017,22,19,2,0,3,2n Cycle,More average
+5830,899,838,5,6,10,PhD,High
+4597,889,685,3,2,13,PhD,High
+7023,189,55,6,1,4,PhD,Less average
+8086,48,2,2,0,3,Graduation,Less average
+8825,230,156,9,2,5,Graduation,More average
+2930,852,207,2,6,10,Master,More average
+1928,35,20,2,0,3,Graduation,Less average
+7108,205,47,5,2,5,Master,More average
+10925,255,446,3,10,11,Graduation,High
+9960,0,1,1,0,2,Basic,Less average
+8800,437,206,7,10,5,PhD,Less average
+9224,825,53,8,10,5,PhD,More average
+5519,316,161,6,9,4,Graduation,More average
+5046,756,354,10,6,7,Graduation,High
+7037,194,134,4,2,8,PhD,Less average
+905,7,18,4,0,3,Graduation,Low
+8624,183,493,4,3,10,Graduation,High
+8945,171,11,4,1,4,Graduation,More average
+6445,243,405,4,5,6,Graduation,More average
+2727,181,69,3,3,6,Graduation,More average
+6404,151,89,4,1,6,Graduation,More average
+11074,494,391,3,4,10,Graduation,High
+10150,464,873,7,4,7,Graduation,High
+1968,5,5,1,0,2,Graduation,Less average
+6534,29,29,2,0,3,Graduation,Less average
+9485,102,49,2,1,6,PhD,Less average
+7053,604,674,3,10,8,PhD,High
+4654,571,523,3,10,5,Graduation,High
+9760,953,71,10,5,10,PhD,More average
+1048,63,67,3,1,4,Master,Less average
+10619,770,890,7,3,7,Graduation,High
+9308,398,265,3,4,6,Graduation,More average
+10505,741,154,3,4,7,Master,More average
+8362,1478,403,7,6,6,PhD,High
+2625,156,56,3,2,7,2n Cycle,Less average
+4637,960,464,6,9,9,PhD,High
+9972,38,2,1,0,3,PhD,Less average
+4483,315,473,2,10,6,Graduation,More average
+4487,15,25,2,0,4,Master,Less average
+4988,19,20,1,1,4,PhD,Less average
+8931,812,431,11,4,10,Graduation,High
+5871,73,217,6,1,6,Master,Low
+2008,372,384,4,5,9,Graduation,High
+3139,871,704,4,4,10,2n Cycle,More average
+10037,375,335,5,4,6,Graduation,More average
+10673,760,466,6,9,5,PhD,More average
+5303,471,510,6,4,9,PhD,High
+538,31,27,1,1,4,Graduation,Less average
+7922,819,72,11,2,10,PhD,More average
+5692,1,3,1,0,3,Basic,Low
+4843,203,305,2,11,5,Graduation,High
+6383,26,15,3,0,3,PhD,Less average
+1628,354,311,9,3,4,Graduation,More average
+1204,1253,447,11,5,11,PhD,More average
+3673,371,238,7,5,11,Graduation,More average
+760,588,76,8,4,9,PhD,More average
+8957,480,249,6,3,5,2n Cycle,More average
+4128,517,54,7,4,7,PhD,More average
+6810,267,606,3,2,6,Graduation,High
+5386,1111,790,5,8,5,Graduation,High
+8700,7,14,2,1,3,Basic,Low
+3202,1166,48,4,4,10,PhD,More average
+1328,261,144,4,4,9,2n Cycle,More average
+8405,135,51,4,2,5,Graduation,More average
+6515,6,18,2,0,3,Graduation,Less average
+2882,711,142,3,2,9,2n Cycle,More average
+7574,11,13,2,0,3,PhD,Less average
+6387,42,17,2,1,3,PhD,More average
+5320,79,58,3,1,4,Master,Less average
+5048,20,43,3,1,2,PhD,Less average
+8146,30,8,1,1,2,Master,Less average
+10031,20,23,3,0,4,PhD,Low
+5748,115,44,5,2,6,Graduation,More average
+2134,263,233,5,5,8,Graduation,More average
+1523,69,15,2,0,4,Graduation,More average
+9665,267,30,5,2,5,PhD,More average
+4640,561,171,4,7,13,Graduation,More average
+3635,492,37,6,3,8,PhD,More average
+3547,14,9,2,0,3,Master,Less average
+2456,80,46,2,1,5,PhD,Less average
+5633,97,84,3,1,6,Graduation,Less average
+7801,197,227,5,2,11,Graduation,More average
+10489,693,925,6,7,9,Graduation,High
+7011,43,27,3,0,4,Graduation,Less average
+2620,14,2,1,0,2,PhD,Less average
+3933,186,234,10,2,6,Graduation,Less average
+10981,434,400,3,4,10,Graduation,High
+1734,59,11,3,0,4,PhD,Less average
+10995,16,30,3,0,4,2n Cycle,Low
+6357,230,75,7,1,7,2n Cycle,More average
+9209,829,430,4,6,13,Master,High
+10286,318,407,2,8,13,Graduation,High
+2611,1206,445,2,4,12,Master,High
+1600,292,77,6,3,5,Master,More average
+3308,30,12,2,0,4,Graduation,Less average
+5407,729,133,10,6,7,Graduation,More average
+2166,12,3,0,1,2,2n Cycle,Less average
+3955,2,1,0,0,0,Graduation,Low
+6634,22,18,2,0,3,Master,Less average
+3056,587,337,11,6,9,Graduation,More average
+5718,674,108,5,11,6,Graduation,High
+6872,284,84,4,2,8,PhD,More average
+8164,1023,651,5,6,7,PhD,High
+4580,1394,708,9,7,9,Graduation,High
+9305,311,640,4,9,13,2n Cycle,High
+453,27,12,2,0,3,PhD,Less average
+8545,1296,311,2,4,10,Graduation,High
+9850,3,7,0,0,3,2n Cycle,Low
+7378,393,136,10,1,6,Master,Less average
+7646,218,282,5,3,12,Graduation,More average
+1640,66,16,1,1,4,Graduation,More average
+5184,4,11,1,0,2,Graduation,Less average
+8492,795,545,8,4,10,Graduation,High
+11188,15,19,2,1,3,Graduation,Less average
+1212,384,292,8,8,6,Graduation,More average
+9097,244,32,3,1,8,Graduation,Less average
+10473,158,288,6,4,9,PhD,High
+7962,1285,449,4,3,4,PhD,High
+9984,349,144,8,5,4,2n Cycle,More average
+5527,4,11,2,0,3,Graduation,Low
+6374,223,31,5,2,4,PhD,Less average
+7453,157,127,3,8,4,Graduation,Less average
+8952,397,288,6,5,10,Master,More average
+241,901,345,4,4,11,Graduation,High
+8975,14,21,3,1,2,Graduation,Low
+6119,10,3,1,0,2,PhD,Less average
+5236,1230,396,10,2,8,Graduation,High
+5723,81,31,1,1,5,PhD,Less average
+1710,154,66,6,1,4,Graduation,Less average
+1970,63,21,3,0,3,Master,Less average
+5313,30,11,2,0,4,Master,Less average
+10634,90,165,4,2,8,Master,More average
+7010,635,254,6,6,7,2n Cycle,More average
+8562,127,73,2,1,7,Graduation,More average
+3158,13,6,1,0,3,Graduation,Less average
+4436,18,24,2,1,4,Graduation,Low
+5287,45,26,3,1,3,Graduation,Less average
+2445,38,24,2,0,3,PhD,Less average
+6059,986,168,11,3,4,PhD,More average
+4550,61,3,1,1,3,Master,Less average
+4240,4,16,2,1,2,Graduation,Low
+8911,201,172,5,4,9,PhD,More average
+3706,19,29,2,2,2,Graduation,Less average
+3628,4,11,2,1,2,Basic,Low
+10175,18,2,1,0,3,PhD,Less average
+8985,806,161,10,7,10,2n Cycle,More average
+5204,380,733,8,8,5,Graduation,High
+9220,576,961,8,6,5,Graduation,High
+9888,458,356,4,4,7,Graduation,More average
+5263,5,13,1,0,3,2n Cycle,Less average
+1020,350,568,5,6,7,Graduation,High
+9503,39,130,5,1,5,Graduation,Less average
+10613,26,16,3,0,4,PhD,Less average
+67,68,16,2,0,4,Master,Less average
+6019,45,9,1,2,2,PhD,Less average
+5863,359,134,6,3,8,Graduation,Less average
+3717,403,29,5,5,6,Graduation,More average
+6730,34,14,2,0,3,Graduation,Less average
+10749,73,66,0,1,0,Graduation,Low
+4998,292,415,4,5,4,Graduation,High
+6287,14,16,1,1,2,Graduation,Less average
+5985,80,37,2,1,4,Master,Less average
+4754,30,33,2,0,4,Master,Less average
+4002,463,333,7,7,12,PhD,High
+8870,75,141,6,1,5,Graduation,Less average
+966,538,91,6,2,11,Graduation,Less average
+4767,635,254,6,6,7,2n Cycle,More average
+9725,8,3,1,0,2,PhD,Less average
+4475,1315,780,7,8,9,PhD,More average
+5740,4,12,1,2,2,2n Cycle,Low
+5731,12,13,1,0,3,Master,Less average
+7290,347,534,3,5,12,Graduation,More average
+3846,192,53,6,1,4,Graduation,Less average
+8104,241,12,5,1,5,PhD,More average
+4507,631,491,6,7,8,Graduation,More average
+11013,336,282,2,8,6,Graduation,More average
+4491,1099,45,3,4,10,Master,More average
+3759,743,181,7,6,11,Graduation,More average
+1162,124,267,5,2,11,PhD,Less average
+2055,15,8,1,1,2,PhD,Less average
+10766,397,69,4,4,8,PhD,More average
+4415,10,4,1,1,3,Graduation,Low
+3005,530,678,4,10,8,Graduation,High
+2223,1215,249,8,9,8,2n Cycle,More average
+4817,3,7,1,0,2,Graduation,Low
+2875,444,382,3,7,13,Graduation,More average
+10536,26,15,3,0,3,PhD,Less average
+11112,736,279,5,6,8,Graduation,More average
+3807,473,176,9,2,9,Graduation,More average
+9197,32,5,2,0,3,Graduation,Less average
+10832,288,30,6,1,6,Graduation,Less average
+6421,1050,555,4,7,9,Graduation,High
+4207,1001,107,6,7,11,PhD,High
+577,9,7,1,0,3,2n Cycle,Less average
+10855,234,77,4,1,8,Master,Less average
+3081,7,6,1,0,2,PhD,Less average
+3535,251,334,4,3,5,Graduation,More average
+247,172,125,7,2,4,Graduation,Less average
+8707,565,548,5,6,4,Graduation,High
+9523,5,8,0,0,3,Graduation,Less average
+6072,918,842,5,8,6,Master,High
+6295,652,158,11,6,5,Graduation,More average
+10914,4,7,1,0,3,Graduation,Low
+1509,152,103,9,9,4,PhD,High
+5577,8,9,1,0,2,Graduation,Less average
+7348,336,411,4,7,5,PhD,More average
+1127,938,843,6,6,7,PhD,High
+1833,68,18,2,1,4,PhD,Less average
+4944,227,389,4,5,7,Graduation,More average
+9080,38,22,3,0,3,PhD,Less average
+6466,105,9,2,1,4,PhD,More average
+9964,162,100,4,2,8,Graduation,More average
+4790,574,216,4,3,5,Graduation,High
+10245,160,369,3,3,8,2n Cycle,High
+1109,6,5,1,0,2,Master,Less average
+6001,614,160,5,8,10,Graduation,More average
+5538,897,430,4,7,6,Graduation,High
+10552,70,109,4,1,7,2n Cycle,More average
+1545,120,206,7,2,5,Graduation,Less average
+7409,211,30,4,1,6,Graduation,More average
+4444,11,16,2,0,3,Graduation,Less average
+146,760,400,4,5,11,PhD,High
+6271,53,8,2,0,3,PhD,More average
+10065,7,13,2,0,4,2n Cycle,Low
+4741,391,70,6,2,9,2n Cycle,More average
+246,199,57,4,1,7,Graduation,More average
+375,516,449,2,2,11,Graduation,High
+1524,709,115,8,2,5,2n Cycle,High
+10022,12,4,1,0,2,PhD,More average
+7451,1000,711,4,6,9,Master,High
+11010,19,18,3,0,3,PhD,Low
+4356,1224,140,3,3,5,Graduation,More average
+3885,16,18,1,1,2,PhD,Less average
+1175,88,54,3,5,3,Master,Less average
+880,2,11,2,1,2,Basic,Low
+2320,508,59,11,1,6,2n Cycle,Less average
+850,381,215,6,5,9,Graduation,More average
+4713,74,42,2,1,4,PhD,Less average
+675,146,93,4,2,5,Master,More average
+5025,23,23,2,1,4,Graduation,Less average
+2308,110,137,6,1,5,Graduation,Less average
+5995,165,147,6,2,5,Graduation,Less average
+6749,957,494,5,3,6,Graduation,High
+1010,41,17,1,1,3,Graduation,Less average
+8977,1,4,0,0,3,Basic,Low
+4756,176,818,7,6,11,2n Cycle,More average
+3412,815,53,2,2,9,Master,More average
+606,6,2,1,0,2,Graduation,Low
+5961,8,20,1,0,3,Graduation,Less average
+2975,717,864,6,7,9,Graduation,High
+2894,1067,750,7,5,8,Graduation,More average
+7613,166,107,5,1,6,2n Cycle,Less average
+10542,29,34,3,0,3,PhD,Less average
+8015,714,395,4,6,9,PhD,High
+10617,8,10,3,0,3,Master,Low
+11166,229,56,6,2,4,Graduation,Less average
+849,320,133,6,2,10,Master,More average
+523,23,26,2,0,4,Graduation,Less average
+4066,1,8,2,1,2,2n Cycle,Low
+8414,56,12,2,0,4,PhD,Less average
+819,508,249,6,5,13,Graduation,More average
+4961,29,25,2,1,4,Master,Low
+749,46,59,3,1,3,Graduation,Less average
+5430,454,171,9,2,8,Graduation,More average
+7755,350,39,9,1,4,PhD,More average
+10525,10,8,1,0,2,Graduation,Less average
+1453,735,183,9,3,13,PhD,More average
+8310,897,196,10,4,7,Graduation,More average
+10710,5,3,1,0,2,Graduation,Low
+5031,777,731,5,9,11,Graduation,High
+2613,162,37,1,3,6,Master,More average
+213,35,11,2,1,3,PhD,Low
+967,342,112,5,2,9,Graduation,Less average
+1077,258,239,7,3,4,Graduation,More average
+7959,658,483,3,2,5,Graduation,High
+640,356,329,7,6,10,Graduation,More average
+4252,213,28,4,1,6,Graduation,Less average
+8432,454,171,9,2,8,Graduation,More average
+6218,457,29,8,1,7,Graduation,More average
+6905,241,604,6,4,10,Graduation,High
+5922,210,6,4,1,5,PhD,Less average
+3598,441,83,4,2,12,Graduation,More average
+6116,19,18,1,1,3,2n Cycle,Less average
+6263,28,37,2,0,4,Graduation,Less average
+10486,476,162,4,4,8,Graduation,High
+2410,364,425,3,4,8,Graduation,High
+193,0,2,1,0,2,Basic,Low
+3363,0,3,1,0,3,2n Cycle,Low
+8278,863,547,8,2,5,PhD,More average
+10660,349,35,8,2,4,Master,More average
+8686,5,15,2,0,3,Basic,Low
+1604,184,19,2,2,6,Master,Less average
+5907,8,8,1,0,2,Master,Less average
+10669,277,64,3,2,10,Graduation,More average
+2918,44,19,2,0,4,Graduation,Less average
+5735,1156,915,3,4,10,Master,High
+359,373,83,8,2,6,Graduation,Less average
+8387,134,76,4,1,5,Graduation,Less average
+1829,1148,60,9,5,4,PhD,More average
+3839,6,3,2,2,3,Basic,Low
+9392,4,11,1,0,2,Graduation,Less average
+2292,5,8,1,0,3,Graduation,Low
+10466,24,20,1,0,4,Graduation,Less average
+9855,899,101,6,6,13,PhD,More average
+4088,108,28,3,1,4,PhD,Less average
+5231,27,7,1,0,3,2n Cycle,Less average
+590,816,549,5,6,4,Master,High
+8732,1298,70,7,4,10,Master,More average
+2315,10,11,1,2,2,Graduation,More average
+3515,87,34,4,0,4,Graduation,More average
+2245,57,51,2,1,4,Master,Less average
+6283,635,100,9,3,9,Master,More average
+2246,43,23,2,1,4,2n Cycle,Less average
+6606,964,137,5,2,10,Master,More average
+5545,572,259,3,5,5,PhD,High
+7342,341,113,6,6,12,2n Cycle,More average
+837,63,57,2,1,5,Graduation,More average
+9500,221,169,9,2,8,Graduation,More average
+3602,140,29,3,2,4,Master,More average
+234,1,8,1,1,2,Graduation,Low
+2995,291,689,3,4,9,Master,More average
+1118,544,85,10,4,5,Master,More average
+7789,684,801,6,9,10,PhD,High
+3068,1,9,2,0,3,Graduation,Low
+8955,35,4,1,1,2,PhD,Less average
+945,87,25,3,0,4,Graduation,Less average
+5644,309,24,5,1,7,Graduation,Less average
+7192,172,93,2,4,10,Graduation,More average
+2324,625,242,7,11,11,Graduation,High
+697,972,913,5,9,6,Graduation,High
+3439,157,39,4,1,5,Graduation,More average
+1506,48,45,2,1,4,Graduation,Less average
+232,279,88,4,2,10,Graduation,More average
+8876,132,16,3,1,4,PhD,Less average
+4500,919,505,4,9,10,PhD,More average
+9739,62,22,2,2,2,Graduation,Less average
+10395,1,3,3,1,3,Basic,Low
+1176,2,4,1,0,2,Graduation,Less average
+1627,408,109,5,7,9,2n Cycle,High
+938,51,7,2,1,2,Graduation,Less average
+2740,62,16,2,1,4,PhD,Less average
+257,952,180,5,4,9,PhD,High
+4058,618,106,11,2,8,PhD,More average
+7736,11,12,2,1,2,Graduation,Low
+8210,318,17,4,1,8,Master,More average
+833,56,14,3,0,3,Master,Less average
+6230,110,59,5,0,4,Graduation,Less average
+7325,23,11,1,0,3,PhD,Less average
+1307,27,8,3,0,4,Graduation,Less average
+1502,18,19,2,0,3,Graduation,Less average
+6211,18,9,1,0,3,PhD,Less average
+843,303,280,8,2,11,Graduation,More average
+4174,97,19,2,1,4,Master,More average
+9757,997,414,5,6,12,Graduation,High
+6918,5,13,1,0,3,Graduation,Less average
+286,95,35,2,1,5,Graduation,Less average
+11086,1,2,1,0,3,Basic,Low
+1921,46,12,2,0,3,PhD,More average
+4138,411,147,5,10,7,Graduation,High
+7718,244,270,1,3,5,Master,More average
+1291,152,121,6,2,4,PhD,Less average
+6862,1,3,0,0,0,Graduation,Low
+4136,10,18,3,2,2,Basic,Low
+803,12,5,0,1,2,Graduation,Less average
+4298,5,4,1,0,2,PhD,Low
+10833,790,133,8,3,13,Graduation,More average
+9606,882,514,4,2,6,PhD,More average
+8534,615,259,6,5,13,Graduation,More average
+5153,1004,265,11,10,11,PhD,High
+961,133,421,7,3,5,Graduation,High
+5011,595,123,8,9,4,Graduation,More average
+6653,293,87,7,2,5,PhD,More average
+9094,313,47,7,4,3,2n Cycle,More average
+810,151,86,4,2,11,Graduation,More average
+5493,15,2,1,0,2,Graduation,Less average
+2147,736,946,4,7,11,Graduation,High
+5107,15,8,1,1,2,PhD,Less average
+3979,982,672,6,2,8,PhD,High
+6049,1142,415,7,8,11,Master,More average
+8147,28,11,2,0,3,Graduation,Less average
+1857,46,12,2,1,2,Graduation,Less average
+3910,897,430,4,7,6,Graduation,High
+5207,489,152,9,4,6,PhD,More average
+11114,25,9,2,1,3,Graduation,Low
+5429,145,33,4,1,4,PhD,Less average
+9400,630,611,6,6,6,2n Cycle,High
+1740,760,104,7,3,4,Graduation,More average
+7488,420,186,5,3,13,Master,More average
+195,125,52,5,1,4,Graduation,Less average
+635,464,64,9,1,7,Master,More average
+7527,6,29,2,1,3,Master,Low
+10319,1090,96,3,4,11,Graduation,More average
+2296,3,11,1,0,2,Master,Less average
+10637,24,27,3,0,3,Graduation,Less average
+2931,737,106,6,7,9,Graduation,More average
+907,254,71,5,1,7,Graduation,Less average
+3698,817,687,4,6,8,Graduation,High
+9516,620,239,9,7,10,2n Cycle,Less average
+679,13,20,1,0,3,PhD,Less average
+7384,113,204,7,1,7,Master,Less average
+5043,7,78,4,2,5,Basic,Less average
+5267,16,18,1,0,3,Graduation,Less average
+339,462,24,9,2,5,PhD,More average
+2516,22,10,1,2,2,2n Cycle,Less average
+9010,968,842,5,7,10,Master,High
+378,283,151,7,2,10,Graduation,More average
+4808,1,5,1,0,2,Graduation,Low
+5068,14,7,2,0,2,Graduation,Low
+7628,30,24,2,0,4,2n Cycle,Less average
+7128,4,5,1,0,2,PhD,Less average
+2811,52,9,1,0,4,PhD,Less average
+3551,62,57,2,1,5,Master,More average
+1663,20,14,2,0,2,PhD,Less average
+5543,545,114,7,2,11,Graduation,More average
+1577,558,622,4,6,4,Graduation,High
+10641,6,4,2,1,3,Graduation,Low
+6024,1111,790,5,8,5,Graduation,High
+1878,4,8,2,0,3,2n Cycle,Low
+3099,183,65,5,2,4,Graduation,Less average
+6055,546,376,5,5,8,Graduation,More average
+5841,606,155,10,3,8,Graduation,More average
+3972,266,51,7,1,5,Graduation,Less average
+4394,1142,249,5,5,12,PhD,High
+5758,1074,69,10,4,13,Graduation,More average
+6658,771,154,11,2,12,Graduation,More average
+4603,371,189,5,4,10,PhD,More average
+8427,556,717,7,5,10,Master,More average
+10260,202,74,6,1,5,Master,Less average
+7143,209,209,4,7,10,2n Cycle,High
+8789,35,111,3,1,7,2n Cycle,More average
+6197,37,17,3,0,3,PhD,Less average
+4554,171,73,3,2,8,Graduation,Less average
+4937,12,20,1,0,3,2n Cycle,Less average
+1920,44,21,3,0,3,Graduation,Less average
+8749,20,9,1,1,2,Graduation,Less average
+1650,779,537,5,9,12,Master,High
+10377,170,97,6,1,5,Master,Less average
+9206,491,231,5,7,12,Graduation,High
+10971,173,107,7,2,3,Graduation,Less average
+6398,7,13,3,0,3,Basic,Low
+9212,1205,235,6,3,13,Master,More average
+7937,10,25,3,0,3,Graduation,Low
+839,97,44,3,1,4,PhD,Less average
+4246,67,26,1,0,1,Master,Low
+158,345,528,8,3,5,PhD,More average
+4832,6,17,2,2,2,Graduation,Less average
+5621,73,100,6,1,5,Graduation,Less average
+1945,711,217,7,4,7,Graduation,More average
+5147,774,118,4,9,13,Graduation,High
+2535,163,480,6,5,8,Master,High
+11039,82,54,5,2,4,Graduation,More average
+9495,358,413,2,8,6,Graduation,More average
+9635,66,40,3,1,3,Master,Less average
+2173,13,7,1,0,3,Graduation,Less average
+942,139,78,7,1,3,Graduation,Less average
+9386,274,21,5,1,6,Graduation,Less average
+5510,262,61,5,2,6,Master,Less average
+873,1099,45,3,4,10,Master,More average
+2253,32,8,1,0,4,Graduation,Low
+5181,2,2,1,0,2,Basic,Low
+979,6,21,2,1,3,Graduation,Less average
+10390,6,4,1,0,3,2n Cycle,Less average
+4698,135,92,5,2,7,PhD,Less average
+7793,641,84,10,4,7,Graduation,More average
+1745,714,395,4,6,9,PhD,High
+10590,794,573,4,8,10,PhD,High
+5080,420,452,6,6,4,Graduation,More average
+8369,1,7,0,1,2,Graduation,Low
+5232,86,75,4,1,5,Graduation,More average
+2407,823,459,6,6,7,Graduation,More average
+3834,231,215,8,2,11,Graduation,More average
+7912,8,27,3,1,2,Graduation,Less average
+7712,182,259,6,2,10,PhD,More average
+1065,557,984,5,8,5,Graduation,High
+7275,79,31,2,1,4,Master,Less average
+1343,368,68,8,2,6,Graduation,More average
+1384,6,14,2,1,2,Basic,Low
+9967,160,196,6,1,7,Graduation,More average
+6181,488,238,8,7,11,2n Cycle,More average
+10507,691,69,2,2,7,2n Cycle,More average
+2674,543,205,6,3,6,Master,High
+2698,254,108,6,3,5,Graduation,Less average
+3231,5,10,1,0,3,Graduation,Less average
+4096,112,21,4,1,4,Master,Less average
+10476,134,59,3,2,5,Graduation,More average
+5948,143,52,4,1,5,Graduation,More average
+9140,51,24,2,0,4,2n Cycle,More average
+10258,27,5,1,0,3,Master,Less average
+5675,459,24,4,5,7,PhD,More average
+4743,689,167,8,4,11,PhD,More average
+8805,283,38,7,2,4,Graduation,Less average
+1542,347,35,4,2,8,Graduation,More average
+6770,5,14,2,1,2,Graduation,Low
+8773,280,18,5,1,6,Master,More average
+10475,187,65,4,2,6,Master,More average
+10420,95,64,4,2,3,Master,Less average
+7514,84,34,3,1,4,2n Cycle,More average
+2902,19,12,1,0,3,Graduation,More average
+4345,5,9,1,0,2,2n Cycle,More average
+793,18,17,2,0,3,Graduation,Low
+10909,992,694,5,10,5,Graduation,High
+3769,25,13,1,0,3,PhD,More average
+8702,9,7,1,0,3,2n Cycle,Less average
+4791,19,17,1,0,3,Graduation,Less average
+2963,709,374,8,6,6,Graduation,High
+8216,158,76,4,4,3,Master,More average
+8140,10,29,2,1,4,Graduation,Low
+10146,25,13,1,0,3,PhD,Less average
+5289,8,12,1,1,2,2n Cycle,Less average
+2587,14,6,2,0,3,PhD,Less average
+4405,622,115,6,3,12,Master,More average
+8663,11,3,1,0,2,Graduation,Less average
+2589,25,16,2,1,3,Graduation,Less average
+3421,635,100,9,3,9,Master,More average
+10490,100,79,6,2,4,PhD,More average
+4094,201,43,5,1,5,Graduation,More average
+9958,642,49,9,2,9,Graduation,More average
+2534,97,41,4,1,3,Graduation,Less average
+4188,204,39,5,2,4,Graduation,Less average
+6613,513,133,8,4,8,Master,Less average
+10827,88,21,3,0,4,PhD,Less average
+5491,172,112,6,1,5,Master,Less average
+8402,329,222,7,5,8,Master,More average
+8783,296,104,4,2,9,Graduation,More average
+10010,100,16,3,2,2,PhD,Less average
+618,422,238,7,2,12,PhD,More average
+9121,1218,272,5,3,6,Graduation,High
+361,5,7,1,0,2,Master,Less average
+4310,507,520,5,10,5,Graduation,High
+2678,52,50,5,0,3,Graduation,Less average
+6376,191,139,4,3,8,Graduation,More average
+524,2,11,2,1,2,Basic,Low
+10341,68,39,2,2,5,Graduation,More average
+5654,20,10,2,0,3,Graduation,Less average
+4098,20,16,2,0,4,Graduation,Low
+5824,7,1,1,0,2,PhD,Less average
+7000,279,74,2,10,10,2n Cycle,More average
+2561,977,253,4,3,12,Graduation,More average
+5229,30,8,1,0,3,PhD,More average
+4086,6,7,1,1,2,Graduation,Low
+2428,3,26,2,0,4,Graduation,Less average
+8254,14,2,1,0,2,PhD,Less average
+2836,10,7,1,0,2,PhD,Less average
+8418,7,17,2,0,3,2n Cycle,Less average
+1362,33,64,6,1,6,Graduation,Less average
+7152,12,13,1,0,3,Master,Less average
+10033,2,10,1,0,3,2n Cycle,Less average
+9349,693,118,6,5,11,Graduation,High
+274,9,15,2,0,3,Graduation,Less average
+3388,129,67,6,1,5,Graduation,More average
+922,16,11,1,1,2,2n Cycle,Less average
+8588,201,43,5,1,5,Graduation,More average
+2518,5,5,0,1,2,2n Cycle,Low
+574,14,11,1,1,4,Graduation,Less average
+3220,29,59,3,0,4,Graduation,Less average
+5967,26,19,2,1,3,Graduation,Less average
+1183,9,4,1,0,2,Master,Less average
+6856,14,23,3,0,3,Graduation,Low
+4530,972,595,3,7,10,Master,High
+1553,966,672,7,5,10,Graduation,High
+4682,99,102,2,2,8,Graduation,More average
+8204,482,553,4,4,9,2n Cycle,High
+5221,714,99,10,7,5,Graduation,More average
+1232,587,348,4,4,8,PhD,More average
+1927,399,159,4,4,5,2n Cycle,More average
+5788,56,92,3,2,4,Graduation,Less average
+6652,227,573,3,4,9,Graduation,High
+6246,703,601,3,11,8,Graduation,More average
+5975,37,17,2,0,3,PhD,Less average
+6875,167,180,7,3,5,PhD,Less average
+4399,458,356,4,4,7,Graduation,More average
+4042,91,52,4,0,4,Graduation,Less average
+2157,15,16,2,0,4,Graduation,Less average
+10133,1302,731,6,7,12,Graduation,High
+2525,153,123,5,2,9,PhD,Less average
+8233,508,21,7,3,7,Master,More average
+9483,290,177,4,6,8,Graduation,More average
+2945,38,2,1,0,3,PhD,Less average
+10403,2,6,3,0,3,Graduation,Low
+5074,30,10,1,0,3,Master,Less average
+10524,386,95,2,11,5,Master,Less average
+4690,443,75,8,1,8,Graduation,More average
+7521,901,345,4,4,11,Graduation,High
+7196,9,3,0,0,3,PhD,Less average
+4406,846,352,9,4,8,Graduation,More average
+9672,8,9,1,1,3,2n Cycle,Low
+4864,72,58,4,1,3,Graduation,Less average
+4706,29,5,1,0,3,Graduation,Less average
+4070,169,553,8,5,4,PhD,High
+25,460,422,6,6,7,Graduation,More average
+3697,69,26,3,0,4,Graduation,Less average
+217,556,717,7,5,10,Master,More average
+4220,73,13,2,1,3,PhD,More average
+5286,112,54,3,2,4,Master,Less average
+9559,944,60,7,5,13,PhD,More average
+2849,265,303,10,2,12,Graduation,More average
+7787,526,135,5,3,12,Graduation,More average
+3102,2,12,1,0,3,2n Cycle,Low
+5868,2,9,1,0,3,Graduation,Low
+8370,378,259,7,3,6,2n Cycle,High
+9988,553,142,6,3,13,Master,More average
+2939,751,687,4,6,4,Master,High
+5529,406,30,8,2,5,PhD,More average
+9743,1449,161,11,8,8,Graduation,High
+5763,123,171,6,2,5,Master,Less average
+3478,267,309,7,4,9,PhD,More average
+7494,209,40,6,1,4,PhD,Less average
+1763,1259,815,7,11,10,Graduation,High
+7250,344,178,7,2,9,Graduation,More average
+2005,22,30,2,0,4,Graduation,Less average
+10770,247,295,4,7,13,Graduation,More average
+6885,38,12,2,0,3,Graduation,Less average
+2072,896,101,4,2,9,PhD,More average
+9463,931,253,9,5,7,Graduation,More average
+6318,758,385,9,7,13,Graduation,More average
+4093,216,57,4,3,5,Master,More average
+5751,2,10,1,0,3,2n Cycle,Less average
+3340,244,108,7,1,6,Graduation,Less average
+3594,539,91,8,2,9,Master,More average
+3584,1181,120,5,10,5,PhD,Less average
+3643,750,125,4,3,6,Master,More average
+851,306,109,5,2,10,Master,More average
+7706,350,189,11,8,5,2n Cycle,Less average
+3967,331,170,2,8,13,PhD,High
+10128,620,165,5,5,12,Graduation,More average
+486,434,400,3,4,10,Graduation,High
+9,57,27,3,2,2,Master,Less average
+9451,811,428,10,4,9,Graduation,More average
+9264,423,706,4,8,9,Graduation,High
+3865,2,10,3,1,2,2n Cycle,Low
+2853,60,87,4,2,4,Graduation,More average
+1490,675,85,10,3,8,Graduation,More average
+6310,30,12,2,0,4,Graduation,Less average
+10380,40,40,3,0,3,Master,Less average
+3887,3,26,2,0,3,Graduation,Less average
+4278,910,724,10,2,6,PhD,High
+8643,252,827,4,5,12,Graduation,More average
+1998,34,21,2,1,3,Graduation,Less average
+10795,19,19,2,0,3,PhD,Less average
+11110,2,1,0,0,0,Graduation,Low
+2408,490,184,7,4,9,Graduation,More average
+202,332,377,4,6,7,PhD,High
+7998,53,17,2,2,2,Graduation,Less average
+830,784,560,4,6,4,PhD,More average
+3536,7,3,1,1,3,Graduation,Low
+6050,1171,219,6,3,13,2n Cycle,More average
+125,215,33,5,1,5,2n Cycle,More average
+3463,674,134,7,3,13,PhD,More average
+2804,57,27,3,2,2,Master,Less average
+3745,5,7,3,0,3,2n Cycle,Low
+9771,104,101,5,1,5,2n Cycle,Low
+451,9,7,1,1,2,Graduation,Low
+10530,431,441,3,6,6,PhD,More average
+1079,1000,76,3,4,9,PhD,More average
+8920,448,469,11,2,12,Master,More average
+6678,33,24,3,0,4,Graduation,Less average
+3852,505,270,9,2,12,Master,High
+528,267,701,5,4,10,Graduation,More average
+73,14,3,0,0,3,PhD,More average
+5589,631,115,9,2,10,Graduation,More average
+10212,65,16,3,0,3,Master,Less average
+6365,10,12,2,0,3,2n Cycle,Less average
+5636,51,50,4,0,3,Graduation,Less average
+591,293,179,8,3,7,Graduation,More average
+2217,11,2,0,0,3,2n Cycle,Less average
+2544,50,27,1,1,4,Master,More average
+7725,173,255,4,4,7,2n Cycle,High
+8091,423,368,6,4,6,Graduation,More average
+7321,292,415,4,5,4,Graduation,High
+5462,757,217,9,6,12,Graduation,More average
+7791,12,6,1,0,3,Master,Less average
+955,167,44,4,2,4,Master,Less average
+4037,3,3,1,0,2,Graduation,Less average
+6642,30,22,2,1,4,Graduation,Less average
+2793,532,168,7,3,13,PhD,More average
+5424,29,59,3,0,4,Graduation,Less average
+879,411,26,7,1,7,Master,Less average
+9530,5,4,1,0,2,Graduation,Low
+4828,71,278,5,10,5,Graduation,High
+10699,46,40,3,0,3,Graduation,Less average
+1497,268,88,6,3,5,Graduation,Less average
+7476,928,254,5,4,10,Master,More average
+4390,459,171,5,4,12,Graduation,High
+10478,483,108,11,1,6,PhD,More average
+1081,733,180,6,3,5,PhD,High
+4261,1006,115,7,6,12,PhD,High
+9916,34,14,2,0,3,Graduation,Less average
+5350,1156,915,3,4,10,Master,High
+8135,7,23,1,0,3,Master,Less average
+8685,244,108,7,1,6,Graduation,Less average
+4967,233,23,5,1,5,PhD,Less average
+2130,35,67,3,1,3,Graduation,Less average
+9298,1252,465,4,5,8,PhD,High
+8175,34,66,2,1,4,Graduation,Less average
+6257,255,134,7,2,7,Master,More average
+3790,8,5,1,0,2,Graduation,Less average
+9952,368,639,4,7,5,Master,High
+3503,255,573,5,3,6,Graduation,High
+5223,33,10,2,1,3,Master,Less average
+4608,163,424,3,10,13,Graduation,High
+1626,15,8,1,1,2,PhD,Less average
+4764,45,52,3,1,4,Master,Less average
+2471,48,68,3,2,6,Graduation,More average
+5892,158,45,3,2,5,Graduation,Less average
+2612,754,625,7,5,12,Graduation,High
+4971,108,28,3,1,4,PhD,Less average
+5185,199,315,4,3,5,Graduation,More average
+10069,2,5,2,0,2,Basic,Low
+2262,202,74,6,1,5,Master,Less average
+1131,85,3,2,0,4,PhD,More average
+1041,322,50,7,1,6,PhD,Less average
+24,18,19,3,0,4,Master,Low
+3409,141,129,7,1,4,Graduation,Less average
+7022,739,309,2,5,13,Graduation,High
+7943,18,6,1,1,3,PhD,Less average
+5272,378,88,8,5,3,Master,More average
+5453,1083,649,4,7,12,Master,High
+2565,1016,215,4,5,10,Master,More average
+800,23,6,1,0,3,Graduation,Less average
+11092,12,21,2,0,3,Graduation,Less average
+5062,35,4,2,0,2,PhD,More average
+8969,548,422,5,5,11,Graduation,More average
+4656,342,230,10,5,4,2n Cycle,More average
+4480,365,15,7,2,5,Master,More average
+9971,397,69,4,4,8,PhD,More average
+6729,456,832,4,5,11,Graduation,More average
+1773,5,15,2,0,3,2n Cycle,Low
+9242,836,575,6,3,9,Graduation,More average
+1764,100,128,5,1,5,Graduation,Less average
+6215,10,10,1,1,2,Graduation,Less average
+10099,238,215,5,3,13,Graduation,More average
+5423,6,5,1,0,2,Graduation,Less average
+940,158,99,3,2,7,Graduation,More average
+3011,86,75,4,1,5,Graduation,More average
+3298,856,76,9,6,9,Master,More average
+8286,98,17,3,0,4,PhD,More average
+9668,4,20,2,0,4,Graduation,Low
+5120,398,447,5,7,6,2n Cycle,More average
+6097,313,104,8,1,6,Graduation,More average
+7019,109,16,3,1,5,Graduation,More average
+7408,216,6,5,1,4,PhD,More average
+8041,595,153,3,2,10,PhD,Less average
+252,123,142,6,2,8,PhD,Less average
+9986,16,23,4,1,2,Graduation,Low
+3276,11,35,3,0,3,2n Cycle,Less average
+3859,410,420,9,3,13,PhD,More average
+3570,159,51,4,1,5,PhD,Less average
+3783,105,10,2,1,4,PhD,More average
+10207,5,8,1,0,2,Graduation,Low
+10906,269,69,4,6,4,PhD,Less average
+3427,629,70,11,2,7,PhD,More average
+5209,443,71,8,2,7,Graduation,Less average
+10711,217,373,3,6,12,Graduation,More average
+10785,24,10,2,0,3,Graduation,Less average
+2814,9,5,1,0,3,Master,Less average
+6866,8,14,1,0,3,Master,Less average
+1665,1459,61,2,5,6,PhD,More average
+6575,230,214,9,1,7,Graduation,More average
+3829,1,6,1,0,3,Basic,Low
+3091,340,134,7,5,8,2n Cycle,High
+10141,7,6,0,0,3,Master,Less average
+5177,298,68,6,2,6,Master,More average
+7005,479,179,5,3,12,Graduation,More average
+6409,267,599,7,5,7,Graduation,More average
+7485,67,32,2,1,4,PhD,More average
+8079,3,8,2,1,3,Graduation,Low
+8395,980,265,3,6,12,Graduation,High
+10352,50,28,3,1,2,Graduation,Less average
+13,19,5,1,0,3,PhD,Low
+1834,30,23,2,0,3,Master,Less average
+2285,213,76,5,2,5,Master,Less average
+2295,539,92,5,3,13,PhD,More average
+1378,284,160,7,4,6,2n Cycle,More average
+2781,1003,536,4,6,6,Graduation,More average
+1165,239,143,6,2,7,PhD,More average
+1404,51,82,5,1,3,Graduation,Less average
+6457,527,230,6,4,12,Graduation,More average
+2639,19,12,3,1,2,Graduation,Less average
+8299,40,15,1,1,3,PhD,Less average
+6437,21,20,2,0,3,2n Cycle,Less average
+6912,593,91,6,3,12,PhD,More average
+7327,21,3,1,1,4,PhD,Less average
+5299,1181,199,7,3,13,PhD,More average
+4127,1004,265,11,10,11,PhD,High
+8143,202,46,4,2,5,PhD,Less average
+1964,446,768,5,6,6,Graduation,High
+3690,1184,673,7,4,10,Master,High
+3433,390,323,6,8,6,2n Cycle,More average
+3389,726,363,8,9,13,Graduation,More average
+4712,8,22,1,1,4,2n Cycle,Low
+1170,50,110,5,1,4,Graduation,Less average
+6347,1,4,1,0,3,Basic,Low
+4065,308,73,5,1,8,PhD,Less average
+8230,22,31,2,0,3,Graduation,Less average
+1215,690,499,5,10,7,Graduation,More average
+5939,43,28,3,1,3,Graduation,Less average
+2156,27,10,2,0,4,PhD,Low
+7788,6,3,0,0,3,PhD,Low
+10323,205,41,4,2,5,Graduation,Less average
+7947,24,8,1,0,3,Graduation,Less average
+1891,667,850,4,6,5,Master,High
+2570,691,61,10,4,7,Graduation,More average
+9256,493,206,8,3,12,Graduation,More average
+295,493,324,3,7,11,Graduation,High
+7397,494,82,7,2,9,Graduation,Less average
+6349,621,414,8,4,6,Master,More average
+10790,9,5,1,0,2,PhD,Low
+10398,1,2,1,0,2,2n Cycle,Low
+2431,12,19,2,0,3,Graduation,Low
+550,243,217,3,3,13,Graduation,More average
+1890,11,4,1,0,2,2n Cycle,Less average
+10742,532,127,4,2,5,PhD,High
+10356,29,2,1,0,3,PhD,Less average
+4676,612,520,9,6,8,Master,More average
+8852,387,342,8,4,11,Graduation,More average
+3565,56,14,3,0,3,Master,Less average
+5294,6,19,3,0,4,Graduation,Low
+1958,582,65,8,2,9,PhD,More average
+7349,6,16,3,1,3,Basic,Low
+8799,70,69,3,1,4,PhD,Less average
+1351,962,194,7,8,13,Master,More average
+1045,112,107,5,2,4,Graduation,More average
+7732,293,124,7,2,10,Graduation,More average
+8070,199,31,3,3,5,PhD,More average
+477,1060,835,4,7,10,Graduation,High
+7832,940,396,8,7,7,Master,High
+2202,44,11,1,0,4,Graduation,Less average
+7396,342,936,5,8,12,Graduation,High
+4055,2,11,3,0,3,Basic,Low
+10340,75,141,6,1,5,Graduation,Less average
+10091,520,367,6,3,6,Graduation,More average
+7629,5,9,2,0,3,Graduation,Low
+10640,87,71,4,1,4,Graduation,Less average
+3498,462,184,7,5,9,PhD,More average
+6742,2,1,1,0,2,Graduation,Low
+1172,979,935,7,5,12,PhD,High
+569,704,853,5,6,7,Graduation,High
+4686,861,558,6,5,13,PhD,High
+1381,172,115,6,1,5,PhD,Less average
+2634,5,31,2,1,3,Master,Low
+10905,194,56,4,1,6,Graduation,Less average
+1744,9,13,1,1,2,Basic,Low
+1000,505,270,9,2,12,Master,High
+3828,533,217,7,6,13,Graduation,More average
+8605,48,14,2,0,3,PhD,Less average
+10304,6,7,1,1,2,Graduation,Low
+4351,18,10,1,1,2,Graduation,Less average
+10129,482,509,3,5,12,Graduation,High
+2499,204,97,5,2,10,2n Cycle,High
+10092,1073,250,7,10,5,Graduation,More average
+7500,245,223,8,1,8,Graduation,High
+5796,560,442,4,5,13,Graduation,High
+10556,173,131,6,1,6,Graduation,More average
+1064,22,11,1,0,3,PhD,Less average
+48,136,12,4,1,3,Graduation,More average
+7610,275,86,6,3,5,Graduation,Less average
+263,56,29,3,1,3,PhD,Less average
+10814,303,751,6,5,13,Graduation,More average
+9710,708,62,11,3,7,PhD,More average
+9292,324,693,4,11,7,Graduation,High
+10250,1,3,1,0,2,Basic,Less average
+7881,620,195,6,4,13,Master,More average
+5847,312,206,7,3,10,Graduation,More average
+737,1493,454,4,4,5,PhD,High
+3571,918,118,8,3,5,PhD,More average
+7807,98,106,5,1,5,Graduation,Less average
+3878,3,7,1,0,3,2n Cycle,Less average
+5092,380,47,7,1,7,PhD,More average
+2154,15,12,2,0,3,Graduation,Less average
+5394,3,4,1,1,4,Basic,Low
+3798,24,23,2,1,3,Graduation,Less average
+3524,80,60,5,1,2,Master,Less average
+5247,31,6,1,0,4,PhD,Less average
+5883,138,204,7,4,7,Graduation,High
+2118,166,96,7,2,8,2n Cycle,More average
+8812,12,8,2,0,3,2n Cycle,Low
+6616,178,85,3,3,8,Graduation,More average
+2797,707,171,9,7,9,Graduation,More average
+4328,5,7,2,1,3,2n Cycle,Low
+9167,465,250,9,2,12,Graduation,More average
+10560,16,2,1,0,3,PhD,Less average
+2631,358,413,2,8,6,Graduation,More average
+8312,1,7,2,0,3,Basic,Less average
+5534,123,26,3,2,3,Master,Less average
+5093,40,30,3,0,3,PhD,Low
+7592,102,63,4,1,4,PhD,More average
+8895,347,534,3,5,12,Graduation,More average
+8584,376,462,2,7,7,PhD,High
+2694,21,3,1,0,3,Graduation,Less average
+8910,194,56,4,1,6,Graduation,Less average
+7433,64,68,3,1,4,Graduation,Less average
+164,206,46,5,1,5,PhD,Less average
+10477,71,18,3,1,2,PhD,Less average
+2681,71,112,2,3,13,2n Cycle,More average
+5150,0,7,2,0,3,Basic,Low
+5283,93,21,2,1,4,PhD,Less average
+9645,920,168,9,4,10,Graduation,More average
+10678,653,170,11,2,10,Graduation,More average
+7261,199,60,5,2,5,Graduation,Less average
+9648,153,56,5,1,4,Graduation,Less average
+2870,376,38,6,3,6,Graduation,Less average
+8008,46,30,2,0,4,Graduation,Less average
+1513,600,128,2,2,12,2n Cycle,More average
+6173,425,292,6,6,11,Graduation,High
+1419,18,15,2,1,3,Graduation,Less average
+9150,52,9,1,0,4,PhD,Less average
+7960,734,350,3,9,13,2n Cycle,High
+1250,34,21,2,1,3,Graduation,Less average
+9905,135,41,3,3,3,Graduation,Less average
+10691,11,10,1,1,2,Master,Less average
+7002,163,90,3,2,8,Graduation,More average
+2952,29,30,3,0,3,Master,Less average
+8439,734,70,6,3,4,Graduation,More average
+762,340,134,7,5,8,2n Cycle,High
+2831,453,279,7,7,10,Graduation,High
+6977,1073,629,10,5,13,Graduation,High
+6289,135,10,3,1,4,Master,More average
+4168,231,137,5,1,8,Graduation,Less average
+8397,18,5,1,1,2,Graduation,Less average
+9284,620,165,5,5,12,Graduation,More average
+6237,81,33,23,1,1,PhD,Low
+3130,12,2,2,0,4,Graduation,Low
+1619,292,981,4,6,6,Graduation,High
+1990,965,586,3,5,8,PhD,More average
+5513,27,10,1,0,3,Graduation,Less average
+269,777,163,4,4,7,PhD,Less average
+8093,572,232,4,3,6,Master,High
+10513,438,565,2,3,6,Graduation,More average
+10177,531,300,5,4,8,Graduation,More average
+2549,17,9,1,0,3,PhD,Low
+5782,402,106,9,2,9,2n Cycle,More average
+10057,503,419,5,7,9,Graduation,More average
+10307,369,87,6,2,8,Graduation,More average
+8566,5,3,1,0,2,PhD,Less average
+2415,362,398,5,3,5,Graduation,More average
+5684,56,9,2,0,3,Master,Less average
+8334,79,31,2,1,4,Master,Less average
+9166,387,141,4,4,12,Graduation,More average
+1440,367,241,9,5,9,2n Cycle,More average
+78,15,11,1,1,2,Graduation,Low
+5441,267,54,5,2,6,PhD,More average
+5302,298,697,4,6,5,Graduation,High
+4687,674,736,3,11,9,Master,High
+1087,16,36,4,1,2,Master,Low
+6859,37,24,4,0,3,Graduation,Less average
+9860,159,22,4,1,4,Graduation,Less average
+7129,686,142,6,4,13,PhD,More average
+5866,97,66,4,1,4,Graduation,Less average
+10521,63,57,2,1,5,Graduation,More average
+7393,56,24,2,1,3,Graduation,Less average
+7849,209,456,2,9,13,PhD,High
+332,198,43,4,1,6,Graduation,Less average
+9847,313,47,7,4,3,2n Cycle,More average
+531,941,397,8,5,9,PhD,More average
+9576,86,56,4,0,4,PhD,Less average
+6906,167,602,3,10,4,Master,High
+7419,8,19,2,0,3,Master,Less average
+3170,389,408,4,4,6,Master,More average
+8527,239,119,6,2,6,Master,More average
+7872,179,273,6,10,6,PhD,High
+9931,5,1,0,0,0,PhD,Low
+10595,2,28,2,0,3,Graduation,Less average
+4609,383,53,8,1,6,PhD,More average
+5010,2,8,1,0,3,Graduation,Low
+4427,536,590,5,10,12,2n Cycle,High
+11148,2,4,1,0,2,Graduation,Low
+1168,322,899,4,6,10,PhD,More average
+9595,539,816,4,5,4,Graduation,More average
+10163,712,420,8,4,7,PhD,High
+2886,1121,72,10,8,10,Master,More average
+6710,68,13,2,0,4,Master,More average
+5316,36,18,2,0,4,Master,Low
+9029,707,603,2,8,12,PhD,More average
+521,174,203,8,1,7,Graduation,More average
+1459,666,124,5,3,5,PhD,More average
+10241,0,0,1,0,2,2n Cycle,Low
+1630,162,100,4,2,8,Graduation,More average
+3254,407,239,5,4,4,Graduation,More average
+9064,823,459,6,6,7,Graduation,More average
+3678,488,71,8,3,7,Graduation,More average
+4227,28,13,2,1,3,Master,Less average
+9467,3,10,1,0,3,Graduation,Less average
+8486,284,52,9,0,4,Master,Less average
+2186,938,754,5,10,6,2n Cycle,High
+3286,13,15,2,0,3,PhD,Less average
+8602,412,153,7,6,11,Graduation,More average
+3722,31,8,2,0,3,Graduation,Less average
+6715,502,132,6,2,11,PhD,More average
+4796,18,3,1,0,3,Graduation,Less average
+9612,1,6,1,0,3,2n Cycle,Low
+3766,100,243,9,1,8,Master,Less average
+1399,407,445,3,7,9,Graduation,More average
+1570,664,240,7,7,10,PhD,More average
+3426,1045,338,5,5,13,Graduation,More average
+3074,1218,304,5,8,4,PhD,More average
+8341,15,6,1,1,2,PhD,Less average
+5180,128,16,4,0,4,PhD,More average
+6461,581,157,5,6,11,Master,More average
+7679,6,12,1,1,3,PhD,Less average
+10702,185,133,7,1,7,Graduation,More average
+7505,22,9,1,1,2,PhD,Less average
+5113,584,835,5,5,5,PhD,High
+10858,355,177,9,5,7,Graduation,High
+2961,175,110,6,3,4,Graduation,Less average
+2747,864,768,4,10,5,PhD,More average
+3010,957,612,4,7,8,Master,High
+5790,25,16,2,0,3,Graduation,Less average
+6892,641,56,10,4,6,Graduation,More average
+1743,273,208,2,3,5,Graduation,More average
+3578,122,43,3,1,6,Graduation,Less average
+8462,1,10,1,1,2,Basic,Low
+5558,1020,430,4,6,4,PhD,High
+8780,378,68,3,5,8,PhD,More average
+10789,42,18,2,0,3,PhD,Less average
+10779,15,14,1,0,3,Graduation,Low
+5896,272,80,4,4,6,Master,More average
+2337,9,24,3,0,3,Graduation,Less average
+10951,279,18,3,1,8,Graduation,Less average
+544,398,265,3,4,6,Graduation,More average
+17,637,237,6,11,7,PhD,More average
+10680,45,16,3,0,3,Graduation,Less average
+3265,21,9,1,0,3,Graduation,Less average
+5623,15,13,1,1,2,Master,Less average
+5832,493,352,3,5,13,2n Cycle,High
+5544,957,175,7,8,5,Graduation,More average
+6417,829,430,4,6,13,Master,High
+5831,1017,500,5,5,5,Graduation,High
+7101,953,71,10,5,10,PhD,More average
+10176,159,120,4,4,8,Graduation,More average
+2326,32,8,1,0,4,Graduation,Low
+4385,23,15,3,0,3,PhD,Less average
+2929,18,24,2,1,4,Graduation,Low
+10686,15,4,1,0,2,PhD,Less average
+2546,23,5,1,0,4,2n Cycle,Less average
+3283,200,100,6,2,12,2n Cycle,More average
+3138,1324,119,7,9,6,Graduation,High
+4994,1193,281,7,5,13,Master,High
+7966,505,401,11,5,11,Graduation,High
+3112,2,9,1,0,3,Master,Low
+10872,1103,45,4,2,11,PhD,More average
+2181,353,753,3,3,7,Graduation,More average
+1867,652,350,9,3,6,Graduation,More average
+1518,379,157,9,3,7,Master,More average
+5734,46,36,2,0,4,PhD,More average
+2878,162,127,4,2,7,PhD,More average
+1458,8,19,3,0,3,Master,Low
+7007,17,18,3,1,2,Master,Less average
+6200,340,185,6,6,9,Graduation,High
+1403,8,15,1,0,3,2n Cycle,Less average
+4827,154,202,4,2,9,PhD,More average
+6250,710,30,11,2,8,PhD,More average
+9291,8,4,0,0,3,Master,Less average
+2478,2,4,1,0,4,Graduation,Low
+1139,1050,322,5,11,5,PhD,More average
+5138,19,14,1,0,3,Graduation,Less average
+5393,22,6,1,0,3,Graduation,Low
+10413,274,216,4,6,12,Graduation,More average
+5015,68,38,2,2,3,Master,Less average
+10868,344,654,3,4,10,Graduation,More average
+10676,145,459,3,8,7,Graduation,More average
+2495,217,350,4,7,10,Master,High
+7842,18,34,3,0,3,Graduation,Less average
+9955,69,26,3,0,4,Graduation,Less average
+6663,144,7,3,1,4,PhD,More average
+2162,256,103,3,3,10,Graduation,More average
+3434,483,567,4,4,10,Graduation,High
+7919,1285,653,10,4,8,PhD,More average
+5626,338,89,4,2,9,PhD,More average
+6428,605,345,1,8,7,PhD,High
+8514,8,7,1,0,3,Graduation,Less average
+10448,172,86,5,3,5,Graduation,Less average
+2109,448,951,6,11,10,Graduation,High
+7530,67,32,2,1,4,PhD,More average
+8925,512,98,8,5,10,Master,More average
+3009,1462,128,5,3,6,PhD,More average
+6355,20,14,2,0,4,Graduation,Less average
+3517,50,44,3,1,3,Graduation,Less average
+1158,102,15,3,0,4,Graduation,Less average
+6203,499,815,6,7,12,Graduation,More average
+7165,381,172,8,2,10,Graduation,More average
+3595,631,239,6,8,12,Graduation,High
+8537,526,553,3,10,7,Graduation,More average
+4331,913,376,3,6,11,Master,High
+6281,673,199,6,3,5,Graduation,More average
+4338,23,9,1,0,3,Graduation,Less average
+2452,199,60,5,2,5,Graduation,Less average
+9507,261,73,6,3,5,Graduation,Less average
+8360,111,37,3,1,5,2n Cycle,More average
+10311,16,12,25,0,0,Graduation,Low
+5117,63,137,4,4,8,2n Cycle,Less average
+4867,58,18,3,0,4,PhD,Less average
+9289,29,17,2,1,2,Graduation,Less average
+10913,3,12,1,0,2,Master,Less average
+3032,28,62,4,0,4,Graduation,Low
+8524,40,30,3,0,3,PhD,Low
+3334,879,797,5,7,9,Graduation,High
+4470,62,44,2,1,4,Master,More average
+1406,280,81,6,3,5,Graduation,More average
+8619,9,6,0,0,3,Graduation,Low
+10821,182,33,4,1,5,Graduation,More average
+4552,83,101,3,5,3,Graduation,More average
+898,38,54,3,0,4,Graduation,Low
+9797,228,130,3,3,8,Graduation,More average
+10949,1092,592,5,5,8,PhD,More average
+8212,85,27,3,1,4,Master,Less average
+6248,1276,746,9,7,11,Master,High
+10164,1017,417,5,5,5,Graduation,High
+4547,6,9,1,0,3,Graduation,Low
+6815,448,125,7,6,8,2n Cycle,High
+4122,504,117,6,5,4,Graduation,High
+10841,226,133,4,3,8,PhD,More average
+5370,239,141,7,1,6,PhD,Less average
+176,90,67,4,1,6,2n Cycle,More average
+4860,7,8,1,0,3,Graduation,Low
+10757,4,5,1,0,2,PhD,Less average
+4023,16,19,3,2,2,Graduation,Low
+6679,10,3,0,0,3,Graduation,Less average
+9923,68,16,2,0,4,Master,Less average
+7181,35,13,2,0,3,Graduation,Less average
+3599,575,428,8,4,8,Graduation,More average
+405,315,31,5,5,3,Graduation,Less average
+6870,182,49,3,1,7,PhD,More average
+832,561,113,8,2,10,PhD,More average
+2002,587,932,5,6,5,Graduation,More average
+3657,94,33,4,0,4,Graduation,Less average
+500,908,735,7,7,9,Graduation,High
+1951,228,122,11,2,8,Basic,Less average
+3262,995,417,2,9,13,Graduation,More average
+4102,11,2,0,0,3,2n Cycle,Less average
+7042,3,14,2,1,2,Graduation,Less average
+10598,12,16,2,0,3,Graduation,Less average
+255,17,2,1,0,3,Graduation,Low
+2375,8,5,0,0,3,Graduation,Less average
+9829,22,17,2,0,4,Graduation,Less average
+6214,14,29,2,0,3,Master,Less average
+4954,106,68,4,2,5,Graduation,Less average
+7861,820,242,8,3,6,Master,High
+4837,753,226,8,5,13,PhD,More average
+9423,13,17,2,0,4,Master,Less average
+4198,9,3,0,0,3,Graduation,Less average
+153,19,6,1,0,3,Graduation,Low
+9323,520,223,10,5,7,Master,Less average
+10001,5,17,2,1,3,2n Cycle,Low
+3945,618,215,11,8,4,PhD,More average
+3799,315,322,7,2,11,Graduation,More average
+8625,15,23,3,0,3,Graduation,Low
+3491,384,364,11,6,8,Graduation,More average
+983,110,92,6,2,3,Graduation,Less average
+9119,208,76,3,3,7,Graduation,More average
+4786,555,257,10,3,12,Graduation,High
+5872,240,216,4,4,10,Graduation,More average
+6568,11,36,2,0,3,Graduation,Less average
+5628,848,323,10,3,10,Graduation,More average
+5631,202,197,5,4,8,Graduation,Less average
+4974,433,650,4,6,9,Graduation,High
+8416,6,15,2,0,3,Graduation,Less average
+5454,37,7,2,0,3,Master,Less average
+4095,167,64,4,3,6,Graduation,Less average
+5474,45,99,4,1,4,Graduation,Less average
+4268,129,21,3,1,4,Graduation,More average
+10701,713,264,7,8,12,Graduation,More average
+3507,676,426,2,5,5,Graduation,High
+2079,450,535,5,6,10,2n Cycle,High
+626,22,12,1,0,3,Graduation,Less average
+4426,367,51,7,2,6,Graduation,More average
+2591,526,214,6,3,4,Graduation,High
+10509,51,16,3,0,3,Master,Less average
+6382,25,11,1,0,3,Graduation,Less average
+6673,28,27,3,0,3,Graduation,Low
+7441,958,447,2,10,12,Graduation,More average
+1071,532,168,7,3,13,PhD,More average
+10061,724,143,9,2,12,Graduation,More average
+7187,375,48,4,10,4,Master,More average
+8775,39,56,3,1,3,Graduation,Less average
+1612,23,15,3,0,3,PhD,More average
+2345,587,348,4,4,8,PhD,More average
+322,29,11,2,0,3,Graduation,Less average
+10897,757,217,9,6,12,Graduation,More average
+123,544,133,4,5,4,Graduation,More average
+6103,40,15,2,1,3,Graduation,Less average
+7899,1245,332,4,7,4,PhD,High
+10500,19,20,3,0,4,Graduation,Less average
+1655,16,15,1,0,3,Graduation,Less average
+2406,376,94,6,2,8,Graduation,More average
+2712,184,178,6,3,10,Graduation,More average
+5517,15,11,1,1,2,Graduation,Low
+10643,124,267,5,2,11,PhD,Less average
+2254,627,414,9,6,5,Graduation,More average
+10281,180,241,5,5,7,Graduation,More average
+6958,14,4,1,1,2,Master,Less average
+954,3,24,2,1,3,Basic,Low
+5079,71,16,2,1,3,Graduation,More average
+10339,161,22,4,1,4,Master,More average
+4643,8,46,3,0,4,Graduation,Less average
+3117,264,21,6,1,5,Graduation,More average
+6497,293,23,6,2,5,Graduation,More average
+5396,758,385,9,7,13,Graduation,More average
+5250,532,490,5,5,11,Master,More average
+1052,656,161,8,9,7,Graduation,More average
+2802,196,607,4,6,7,2n Cycle,High
+6343,835,380,6,9,7,Graduation,High
+6507,16,15,1,1,4,Graduation,Less average
+7901,9,5,0,0,3,Master,Less average
+4865,229,140,5,1,8,Master,More average
+2686,0,4,1,0,2,Basic,Low
+3107,121,124,4,1,7,Graduation,More average
+7734,471,125,4,10,7,Graduation,High
+1146,520,223,10,5,7,Master,Less average
+11031,26,10,1,0,3,PhD,Less average
+7428,240,445,3,7,8,Graduation,High
+975,178,26,4,1,5,Graduation,More average
+1103,1486,278,4,4,10,Master,High
+3422,1115,128,2,3,4,Graduation,High
+1055,29,8,1,0,3,Master,More average
+6544,529,356,6,7,11,PhD,More average
+1241,13,8,1,0,3,2n Cycle,Low
+2909,934,230,8,4,6,PhD,High
+5802,2,11,2,0,4,Basic,Low
+1407,4,5,2,0,3,Basic,Low
+6183,62,44,2,1,4,Master,More average
+340,158,179,7,2,8,Graduation,More average
+5991,173,39,5,1,4,Master,Less average
+3104,830,968,5,3,12,Graduation,High
+9729,189,253,8,2,7,Graduation,More average
+1008,728,133,7,3,13,PhD,Less average
+11091,7,9,1,0,3,Graduation,Less average
+3969,35,17,2,2,2,Master,Less average
+1916,188,180,7,1,6,Master,Less average
+9907,742,152,6,8,10,Master,More average
+87,0,5,2,0,3,2n Cycle,Less average
+8659,750,174,6,8,11,PhD,More average
+6262,816,450,3,10,8,Master,More average
+6147,5,8,0,1,2,Graduation,Low
+8832,37,56,3,0,4,Master,Less average
+10067,4,4,1,0,2,2n Cycle,Low
+7532,99,11,3,0,4,Graduation,Less average
+4915,176,98,5,2,12,2n Cycle,More average
+2115,54,10,1,0,4,Graduation,Less average
+2088,997,414,5,6,12,Graduation,High
+2493,356,107,7,1,8,Graduation,More average
+6292,1311,359,4,3,10,PhD,High
+1631,890,292,8,4,7,PhD,More average
+10104,4,2,1,0,2,Graduation,Less average
+3006,17,14,1,0,3,Graduation,Less average
+3919,960,883,5,6,8,Master,More average
+642,1,2,2,1,2,Basic,Low
+4369,240,500,3,5,6,Master,More average
+10127,301,61,8,2,4,Graduation,More average
+271,154,50,3,4,3,Graduation,Less average
+4973,2,6,1,1,2,Graduation,Low
+2948,104,48,2,2,5,Master,More average
+2715,70,37,3,2,2,Master,Less average
+10432,2,9,1,0,3,Graduation,Low
+9216,23,11,2,0,3,Graduation,Less average
+7124,43,12,2,1,4,Graduation,Less average
+9727,4,11,2,0,4,Graduation,Low
+5136,654,92,9,4,8,Graduation,More average
+9790,912,170,11,3,4,Graduation,High
+1818,25,8,2,0,2,PhD,Less average
+1100,24,22,3,1,3,Master,Less average
+7873,141,114,4,1,7,PhD,More average
+10609,71,13,1,1,4,PhD,Less average
+6950,35,16,2,0,3,Master,Less average
+7233,496,849,5,3,6,Graduation,More average
+9481,9,11,3,1,3,Graduation,Low
+7699,154,50,3,4,3,Graduation,Less average
+2711,9,5,1,0,3,Master,Less average
+8933,26,23,2,0,4,2n Cycle,Less average
+8726,77,44,3,1,4,2n Cycle,Less average
+1515,11,7,1,0,3,Master,Less average
+5186,576,115,7,4,9,PhD,More average
+10157,89,89,4,1,6,Graduation,More average
+5667,1013,399,9,10,4,PhD,More average
+902,224,48,6,2,4,Graduation,More average
+977,200,111,5,1,8,Graduation,Less average
+7313,570,614,6,5,11,2n Cycle,High
+7600,1,3,1,0,3,Basic,Low
+9706,62,20,2,1,3,PhD,Less average
+2429,531,300,5,4,8,Graduation,More average
+3520,162,818,4,3,7,Master,High
+10394,675,133,4,8,5,Graduation,High
+4548,23,10,1,0,3,Graduation,Less average
+9362,492,32,9,1,7,Graduation,More average
+3968,918,129,11,3,12,2n Cycle,More average
+4084,224,155,6,4,11,Graduation,More average
+6721,572,286,6,3,5,Graduation,More average
+2829,626,70,9,3,8,Graduation,More average
+1772,1074,518,5,6,7,PhD,High
+1544,741,689,4,2,10,Master,High
+492,322,50,7,1,6,PhD,Less average
+4377,254,44,7,3,3,Graduation,More average
+4541,116,82,3,1,6,Graduation,Less average
+1321,22,18,3,0,3,Graduation,Less average
+8858,516,21,8,2,7,PhD,Less average
+3266,14,11,1,1,4,Graduation,Less average
+11187,2,10,2,1,3,Basic,Less average
+8207,28,9,1,0,3,2n Cycle,More average
+9723,530,217,7,4,13,Graduation,More average
+2666,519,167,8,3,11,Master,High
+5721,611,749,7,10,6,PhD,High
+10652,240,500,3,5,6,Master,More average
+1646,4,12,1,1,3,Basic,Low
+4418,671,655,7,5,12,Master,High
+2656,23,7,1,1,2,Graduation,Less average
+7990,9,2,0,0,3,Graduation,Less average
+8722,556,845,7,7,10,2n Cycle,High
+7118,833,363,9,5,6,Graduation,More average
+2980,12,13,3,0,3,Master,Low
+1839,56,48,3,0,4,Graduation,Less average
+10722,293,124,6,6,3,Graduation,More average
+2632,297,38,5,4,4,Graduation,More average
+9014,39,16,3,0,3,Graduation,Less average
+7620,5,16,2,2,2,Basic,Low
+10968,266,300,8,8,6,Graduation,More average
+11133,322,50,7,1,6,PhD,Less average
+2736,366,156,5,5,11,Graduation,More average
+1876,32,8,1,0,4,Graduation,Low
+5959,158,23,3,1,5,Graduation,Less average
+1092,269,495,9,3,4,Graduation,More average
+4333,41,10,2,1,3,Graduation,Less average
+3850,3,3,1,0,3,Basic,Low
+6168,33,5,1,1,2,Graduation,Less average
+607,302,131,8,1,7,2n Cycle,Less average
+10469,519,860,6,2,9,Graduation,High
+6983,23,17,2,0,3,Master,Less average
+3661,594,631,4,6,8,2n Cycle,High
+9303,12,7,1,0,0,Graduation,Low
+692,4,5,1,0,2,Graduation,Less average
+736,18,19,2,0,3,Graduation,Less average
+9589,332,377,4,6,7,PhD,High
+4838,5,8,1,0,2,Graduation,Low
+9246,171,129,6,1,6,Master,Less average
+6261,270,88,3,2,10,Graduation,More average
+7366,712,538,3,6,11,Master,High
+10659,2,11,3,2,2,2n Cycle,Low
+1448,21,12,2,0,4,Master,Less average
+4286,580,58,7,6,6,PhD,More average
+4749,368,68,8,2,6,Graduation,More average
+4478,457,106,11,1,6,Graduation,More average
+4201,229,137,4,2,8,Graduation,More average
+8720,32,1607,0,0,1,2n Cycle,More average
+10084,3,8,2,1,2,Graduation,Low
+7004,24,26,3,1,2,Graduation,Low
+9817,853,143,9,4,12,Master,Less average
+8080,5,6,0,0,3,Graduation,Less average
+8372,3,7,1,0,2,Graduation,Less average
+10870,709,182,9,3,4,Graduation,More average
+4001,406,30,8,2,5,PhD,More average
+7270,908,217,2,3,13,Graduation,More average
+8235,428,214,6,5,10,Master,More average
+9405,84,61,3,1,4,PhD,More average
