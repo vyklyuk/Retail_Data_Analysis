@@ -1,0 +1,1001 @@
+Product line,Quantity,Quantity binned,Retail,Transfer,Total ranged,Total
+Miscellaneous,8,[0-10],1,0,(99-499],134.83
+Breaking system,9,[0-10],1,0,(99-499],173.61
+Suspension & traction,8,[0-10],1,0,(99-499],263.45
+Frame & body,16,[11-20],0,1,(499-999],605.44
+Engine,2,[0-10],1,0,(99-499],120.96
+Suspension & traction,40,[31-inf],0,1,(999-1499],1494.8
+Electrical system,2,[0-10],1,0,(0-99],54.41
+Breaking system,10,[0-10],1,0,(99-499],224.38
+Frame & body,40,[31-inf],0,1,(1499-inf],1579.87
+Frame & body,6,[0-10],1,0,(99-499],272.61
+Frame & body,6,[0-10],1,0,(99-499],229.22
+Suspension & traction,6,[0-10],1,0,(99-499],224.71
+Suspension & traction,6,[0-10],1,0,(99-499],172.01
+Breaking system,9,[0-10],1,0,(99-499],135.92
+Electrical system,10,[0-10],1,0,(99-499],223.68
+Breaking system,2,[0-10],1,0,(0-99],49.94
+Frame & body,1,[0-10],1,0,(0-99],40.41
+Miscellaneous,6,[0-10],1,0,(99-499],121.66
+Frame & body,6,[0-10],1,0,(99-499],244.63
+Frame & body,8,[0-10],1,0,(99-499],308.89
+Electrical system,9,[0-10],1,0,(99-499],184.54
+Suspension & traction,5,[0-10],1,0,(99-499],180.91
+Electrical system,5,[0-10],1,0,(99-499],141.67
+Suspension & traction,6,[0-10],1,0,(99-499],213.15
+Electrical system,1,[0-10],1,0,(0-99],29.31
+Frame & body,1,[0-10],1,0,(0-99],48.9
+Electrical system,2,[0-10],1,0,(0-99],40.37
+Electrical system,8,[0-10],1,0,(99-499],216.0
+Suspension & traction,10,[0-10],1,0,(99-499],309.23
+Breaking system,4,[0-10],1,0,(0-99],79.14
+Frame & body,3,[0-10],1,0,(99-499],123.21
+Electrical system,5,[0-10],1,0,(99-499],100.81
+Suspension & traction,1,[0-10],1,0,(0-99],37.03
+Electrical system,9,[0-10],1,0,(99-499],249.98
+Breaking system,3,[0-10],1,0,(0-99],63.03
+Breaking system,6,[0-10],1,0,(0-99],77.38
+Electrical system,28,[21-30],0,1,(499-999],815.22
+Miscellaneous,1,[0-10],1,0,(0-99],25.2
+Breaking system,1,[0-10],1,0,(0-99],20.66
+Electrical system,7,[0-10],1,0,(99-499],226.19
+Suspension & traction,16,[11-20],0,1,(499-999],588.64
+Suspension & traction,5,[0-10],1,0,(99-499],160.76
+Breaking system,4,[0-10],0,1,(0-99],54.6
+Suspension & traction,9,[0-10],1,0,(99-499],278.07
+Suspension & traction,4,[0-10],1,0,(99-499],141.77
+Engine,7,[0-10],1,0,(99-499],442.04
+Suspension & traction,32,[31-inf],0,1,(999-1499],1114.13
+Suspension & traction,4,[0-10],1,0,(99-499],141.46
+Engine,36,[31-inf],0,1,(1499-inf],2282.82
+Miscellaneous,10,[0-10],1,0,(99-499],282.47
+Frame & body,1,[0-10],1,0,(0-99],35.89
+Breaking system,5,[0-10],1,0,(0-99],75.78
+Breaking system,4,[0-10],1,0,(0-99],87.79
+Breaking system,7,[0-10],1,0,(99-499],108.0
+Frame & body,4,[0-10],1,0,(99-499],176.39
+Frame & body,4,[0-10],0,1,(99-499],178.75
+Miscellaneous,3,[0-10],1,0,(0-99],53.61
+Frame & body,9,[0-10],1,0,(99-499],391.42
+Miscellaneous,4,[0-10],1,0,(99-499],112.76
+Breaking system,7,[0-10],1,0,(99-499],114.3
+Suspension & traction,40,[31-inf],0,1,(999-1499],1145.47
+Breaking system,6,[0-10],1,0,(99-499],147.61
+Suspension & traction,9,[0-10],1,0,(99-499],257.31
+Electrical system,4,[0-10],1,0,(99-499],118.48
+Frame & body,5,[0-10],1,0,(99-499],197.62
+Breaking system,1,[0-10],1,0,(0-99],10.46
+Breaking system,10,[0-10],1,0,(99-499],192.05
+Frame & body,8,[0-10],0,1,(99-499],353.11
+Miscellaneous,8,[0-10],1,0,(99-499],198.05
+Breaking system,40,[31-inf],0,1,(499-999],830.67
+Breaking system,9,[0-10],1,0,(99-499],122.6
+Suspension & traction,4,[0-10],1,0,(99-499],130.25
+Electrical system,4,[0-10],1,0,(99-499],100.15
+Miscellaneous,40,[31-inf],0,1,(499-999],754.73
+Suspension & traction,2,[0-10],1,0,(0-99],66.37
+Suspension & traction,12,[11-20],0,1,(99-499],411.14
+Miscellaneous,12,[11-20],0,1,(99-499],208.62
+Electrical system,3,[0-10],1,0,(0-99],89.8
+Frame & body,2,[0-10],1,0,(0-99],70.92
+Frame & body,3,[0-10],1,0,(99-499],124.25
+Breaking system,36,[31-inf],0,1,(499-999],737.28
+Breaking system,28,[21-30],0,1,(99-499],475.49
+Breaking system,36,[31-inf],0,1,(499-999],594.24
+Frame & body,10,[0-10],1,0,(99-499],492.4
+Frame & body,8,[0-10],1,0,(99-499],282.47
+Breaking system,6,[0-10],1,0,(99-499],99.32
+Breaking system,5,[0-10],1,0,(0-99],73.78
+Electrical system,7,[0-10],1,0,(99-499],229.1
+Suspension & traction,10,[0-10],1,0,(99-499],276.33
+Suspension & traction,12,[11-20],0,1,(99-499],343.8
+Electrical system,4,[0-10],1,0,(0-99],75.85
+Frame & body,8,[0-10],1,0,(99-499],378.37
+Engine,2,[0-10],1,0,(99-499],112.09
+Electrical system,5,[0-10],1,0,(99-499],145.66
+Miscellaneous,36,[31-inf],0,1,(499-999],782.94
+Frame & body,7,[0-10],1,0,(99-499],330.33
+Suspension & traction,6,[0-10],1,0,(99-499],228.38
+Breaking system,7,[0-10],1,0,(99-499],151.5
+Frame & body,28,[21-30],0,1,(999-1499],1035.91
+Miscellaneous,9,[0-10],1,0,(99-499],157.41
+Breaking system,1,[0-10],1,0,(0-99],23.28
+Breaking system,28,[21-30],0,1,(99-499],404.93
+Breaking system,5,[0-10],1,0,(0-99],53.16
+Suspension & traction,6,[0-10],1,0,(99-499],246.52
+Miscellaneous,24,[21-30],0,1,(499-999],514.0
+Frame & body,4,[0-10],1,0,(99-499],188.22
+Frame & body,2,[0-10],1,0,(0-99],95.72
+Breaking system,10,[0-10],1,0,(99-499],132.37
+Frame & body,28,[21-30],0,1,(999-1499],1199.89
+Electrical system,2,[0-10],1,0,(0-99],52.41
+Suspension & traction,7,[0-10],1,0,(99-499],234.58
+Electrical system,1,[0-10],1,0,(0-99],21.18
+Frame & body,6,[0-10],1,0,(99-499],223.01
+Breaking system,9,[0-10],1,0,(99-499],105.02
+Suspension & traction,10,[0-10],1,0,(99-499],397.78
+Breaking system,10,[0-10],1,0,(99-499],222.08
+Suspension & traction,10,[0-10],1,0,(99-499],412.5
+Electrical system,8,[0-10],1,0,(99-499],255.41
+Electrical system,9,[0-10],1,0,(99-499],209.43
+Frame & body,7,[0-10],1,0,(99-499],286.51
+Frame & body,6,[0-10],1,0,(99-499],272.6
+Suspension & traction,3,[0-10],1,0,(99-499],115.5
+Electrical system,10,[0-10],1,0,(99-499],236.08
+Breaking system,8,[0-10],0,1,(99-499],146.48
+Miscellaneous,4,[0-10],1,0,(0-99],67.36
+Miscellaneous,2,[0-10],1,0,(0-99],50.8
+Breaking system,1,[0-10],1,0,(0-99],20.72
+Suspension & traction,6,[0-10],1,0,(99-499],173.46
+Miscellaneous,1,[0-10],1,0,(0-99],27.47
+Breaking system,10,[0-10],1,0,(99-499],176.73
+Electrical system,7,[0-10],1,0,(99-499],188.31
+Frame & body,1,[0-10],1,0,(0-99],39.14
+Miscellaneous,5,[0-10],1,0,(99-499],149.74
+Miscellaneous,7,[0-10],1,0,(99-499],178.57
+Electrical system,1,[0-10],1,0,(0-99],19.62
+Miscellaneous,4,[0-10],1,0,(0-99],74.51
+Breaking system,20,[11-20],0,1,(99-499],489.0
+Electrical system,12,[11-20],0,1,(99-499],320.94
+Breaking system,4,[0-10],1,0,(0-99],45.39
+Suspension & traction,9,[0-10],1,0,(99-499],292.26
+Engine,7,[0-10],1,0,(99-499],412.06
+Engine,28,[21-30],0,1,(1499-inf],1779.07
+Suspension & traction,10,[0-10],1,0,(99-499],412.28
+Frame & body,7,[0-10],1,0,(99-499],255.62
+Breaking system,2,[0-10],1,0,(0-99],41.17
+Electrical system,5,[0-10],1,0,(99-499],146.38
+Frame & body,24,[21-30],0,1,(999-1499],1174.88
+Electrical system,9,[0-10],1,0,(99-499],241.32
+Suspension & traction,36,[31-inf],0,1,(999-1499],1435.26
+Engine,10,[0-10],1,0,(499-999],610.78
+Suspension & traction,6,[0-10],1,0,(99-499],161.43
+Miscellaneous,5,[0-10],1,0,(0-99],81.2
+Breaking system,2,[0-10],1,0,(0-99],44.59
+Suspension & traction,10,[0-10],1,0,(99-499],343.12
+Suspension & traction,40,[31-inf],0,1,(999-1499],1423.73
+Suspension & traction,10,[0-10],1,0,(99-499],409.3
+Miscellaneous,9,[0-10],1,0,(99-499],259.89
+Frame & body,2,[0-10],1,0,(0-99],97.73
+Frame & body,7,[0-10],1,0,(99-499],339.2
+Frame & body,2,[0-10],1,0,(0-99],71.83
+Breaking system,4,[0-10],1,0,(0-99],59.47
+Frame & body,7,[0-10],1,0,(99-499],253.33
+Miscellaneous,9,[0-10],1,0,(99-499],198.9
+Breaking system,4,[0-10],0,1,(0-99],67.57
+Suspension & traction,7,[0-10],1,0,(99-499],285.36
+Frame & body,2,[0-10],1,0,(0-99],80.21
+Miscellaneous,10,[0-10],1,0,(99-499],268.68
+Frame & body,20,[11-20],0,1,(499-999],906.4
+Electrical system,8,[0-10],0,1,(99-499],217.09
+Miscellaneous,8,[0-10],0,1,(99-499],183.85
+Frame & body,3,[0-10],1,0,(99-499],112.85
+Frame & body,7,[0-10],1,0,(99-499],302.06
+Suspension & traction,6,[0-10],1,0,(99-499],171.52
+Miscellaneous,8,[0-10],0,1,(99-499],194.2
+Suspension & traction,4,[0-10],0,1,(99-499],157.81
+Frame & body,24,[21-30],0,1,(999-1499],1156.24
+Frame & body,36,[31-inf],0,1,(1499-inf],1743.78
+Electrical system,1,[0-10],1,0,(0-99],23.24
+Breaking system,12,[11-20],0,1,(99-499],276.3
+Breaking system,24,[21-30],0,1,(99-499],269.92
+Suspension & traction,5,[0-10],1,0,(99-499],146.93
+Suspension & traction,9,[0-10],1,0,(99-499],254.04
+Miscellaneous,8,[0-10],1,0,(99-499],133.05
+Breaking system,7,[0-10],1,0,(99-499],129.2
+Frame & body,16,[11-20],0,1,(499-999],712.69
+Breaking system,6,[0-10],1,0,(99-499],149.1
+Suspension & traction,10,[0-10],1,0,(99-499],326.13
+Miscellaneous,8,[0-10],1,0,(99-499],151.84
+Frame & body,10,[0-10],1,0,(99-499],440.32
+Suspension & traction,6,[0-10],1,0,(99-499],202.89
+Suspension & traction,9,[0-10],1,0,(99-499],312.1
+Frame & body,3,[0-10],1,0,(99-499],131.53
+Electrical system,8,[0-10],1,0,(99-499],149.47
+Miscellaneous,6,[0-10],1,0,(99-499],131.28
+Frame & body,1,[0-10],1,0,(0-99],46.82
+Suspension & traction,4,[0-10],1,0,(99-499],137.42
+Miscellaneous,8,[0-10],1,0,(99-499],164.24
+Suspension & traction,12,[11-20],0,1,(99-499],323.88
+Breaking system,4,[0-10],1,0,(0-99],73.06
+Suspension & traction,4,[0-10],0,1,(99-499],159.07
+Electrical system,7,[0-10],1,0,(99-499],191.43
+Suspension & traction,3,[0-10],1,0,(0-99],93.74
+Frame & body,16,[11-20],0,1,(499-999],754.48
+Breaking system,8,[0-10],1,0,(0-99],87.49
+Breaking system,32,[31-inf],0,1,(499-999],607.36
+Suspension & traction,10,[0-10],1,0,(99-499],370.58
+Suspension & traction,32,[31-inf],0,1,(999-1499],1276.0
+Electrical system,16,[11-20],0,1,(99-499],414.67
+Suspension & traction,2,[0-10],1,0,(0-99],67.81
+Frame & body,2,[0-10],1,0,(0-99],97.71
+Miscellaneous,3,[0-10],1,0,(0-99],67.34
+Electrical system,7,[0-10],1,0,(99-499],178.7
+Engine,6,[0-10],1,0,(99-499],399.19
+Suspension & traction,6,[0-10],1,0,(99-499],227.95
+Breaking system,8,[0-10],0,1,(99-499],115.15
+Frame & body,1,[0-10],1,0,(0-99],49.69
+Miscellaneous,4,[0-10],0,1,(99-499],99.32
+Suspension & traction,6,[0-10],1,0,(99-499],223.22
+Suspension & traction,3,[0-10],1,0,(0-99],90.34
+Suspension & traction,9,[0-10],1,0,(99-499],337.0
+Suspension & traction,5,[0-10],1,0,(99-499],157.82
+Engine,6,[0-10],1,0,(99-499],355.81
+Engine,4,[0-10],0,1,(99-499],254.34
+Engine,5,[0-10],1,0,(99-499],266.98
+Breaking system,5,[0-10],1,0,(0-99],65.72
+Miscellaneous,9,[0-10],1,0,(99-499],191.44
+Electrical system,7,[0-10],1,0,(99-499],233.29
+Electrical system,5,[0-10],1,0,(0-99],92.49
+Suspension & traction,6,[0-10],1,0,(99-499],216.06
+Engine,5,[0-10],1,0,(99-499],329.96
+Breaking system,1,[0-10],1,0,(0-99],13.44
+Electrical system,3,[0-10],1,0,(0-99],92.02
+Miscellaneous,6,[0-10],1,0,(99-499],178.53
+Suspension & traction,16,[11-20],0,1,(499-999],526.35
+Frame & body,10,[0-10],1,0,(99-499],483.0
+Breaking system,8,[0-10],1,0,(0-99],92.33
+Breaking system,32,[31-inf],0,1,(99-499],471.84
+Engine,4,[0-10],1,0,(99-499],238.77
+Suspension & traction,6,[0-10],1,0,(99-499],233.77
+Breaking system,5,[0-10],1,0,(0-99],56.62
+Electrical system,1,[0-10],1,0,(0-99],30.51
+Breaking system,7,[0-10],1,0,(99-499],111.35
+Breaking system,8,[0-10],1,0,(99-499],182.24
+Frame & body,6,[0-10],1,0,(99-499],223.08
+Suspension & traction,3,[0-10],1,0,(99-499],117.86
+Electrical system,10,[0-10],1,0,(99-499],233.83
+Frame & body,10,[0-10],1,0,(99-499],464.62
+Electrical system,7,[0-10],1,0,(99-499],205.19
+Suspension & traction,5,[0-10],1,0,(99-499],186.07
+Frame & body,10,[0-10],1,0,(99-499],461.0
+Suspension & traction,1,[0-10],1,0,(0-99],35.15
+Breaking system,3,[0-10],1,0,(0-99],71.61
+Electrical system,32,[31-inf],0,1,(499-999],792.64
+Electrical system,8,[0-10],1,0,(99-499],147.41
+Electrical system,5,[0-10],1,0,(99-499],147.92
+Breaking system,2,[0-10],1,0,(0-99],36.99
+Miscellaneous,7,[0-10],1,0,(99-499],149.93
+Electrical system,4,[0-10],1,0,(99-499],100.75
+Frame & body,16,[11-20],0,1,(499-999],640.13
+Suspension & traction,4,[0-10],1,0,(99-499],140.01
+Frame & body,2,[0-10],1,0,(0-99],73.96
+Engine,1,[0-10],1,0,(0-99],66.02
+Breaking system,1,[0-10],1,0,(0-99],10.9
+Miscellaneous,5,[0-10],1,0,(99-499],140.3
+Breaking system,1,[0-10],1,0,(0-99],20.68
+Breaking system,7,[0-10],1,0,(99-499],104.56
+Breaking system,3,[0-10],1,0,(0-99],67.44
+Electrical system,10,[0-10],1,0,(99-499],317.5
+Frame & body,9,[0-10],1,0,(99-499],405.28
+Engine,8,[0-10],1,0,(99-499],445.75
+Suspension & traction,9,[0-10],1,0,(99-499],264.34
+Suspension & traction,12,[11-20],0,1,(99-499],406.6
+Breaking system,1,[0-10],1,0,(0-99],19.16
+Breaking system,1,[0-10],1,0,(0-99],11.89
+Breaking system,1,[0-10],1,0,(0-99],10.35
+Miscellaneous,8,[0-10],0,1,(99-499],211.84
+Frame & body,5,[0-10],1,0,(99-499],209.62
+Breaking system,2,[0-10],1,0,(0-99],27.78
+Breaking system,3,[0-10],1,0,(0-99],73.34
+Electrical system,7,[0-10],1,0,(99-499],176.97
+Electrical system,36,[31-inf],0,1,(999-1499],1016.22
+Suspension & traction,4,[0-10],1,0,(99-499],117.03
+Breaking system,5,[0-10],1,0,(0-99],72.38
+Electrical system,7,[0-10],1,0,(99-499],218.26
+Breaking system,2,[0-10],1,0,(0-99],43.79
+Miscellaneous,20,[11-20],0,1,(499-999],533.5
+Breaking system,10,[0-10],1,0,(99-499],146.58
+Frame & body,10,[0-10],1,0,(99-499],408.1
+Electrical system,3,[0-10],1,0,(0-99],66.9
+Breaking system,36,[31-inf],0,1,(499-999],624.42
+Engine,8,[0-10],1,0,(99-499],477.63
+Electrical system,40,[31-inf],0,1,(499-999],977.13
+Engine,4,[0-10],1,0,(99-499],264.11
+Miscellaneous,6,[0-10],1,0,(99-499],170.24
+Electrical system,1,[0-10],1,0,(0-99],28.88
+Frame & body,5,[0-10],1,0,(99-499],193.54
+Suspension & traction,10,[0-10],1,0,(99-499],331.68
+Breaking system,7,[0-10],1,0,(99-499],121.66
+Miscellaneous,6,[0-10],1,0,(99-499],161.71
+Suspension & traction,7,[0-10],1,0,(99-499],203.28
+Frame & body,10,[0-10],1,0,(99-499],357.27
+Suspension & traction,2,[0-10],1,0,(0-99],54.01
+Suspension & traction,2,[0-10],1,0,(0-99],73.13
+Miscellaneous,7,[0-10],1,0,(99-499],106.79
+Electrical system,6,[0-10],1,0,(99-499],118.77
+Breaking system,5,[0-10],1,0,(0-99],61.52
+Frame & body,9,[0-10],1,0,(99-499],417.1
+Frame & body,8,[0-10],1,0,(99-499],374.63
+Engine,8,[0-10],1,0,(499-999],500.49
+Engine,1,[0-10],1,0,(0-99],53.19
+Electrical system,8,[0-10],1,0,(99-499],265.55
+Electrical system,12,[11-20],0,1,(99-499],373.6
+Suspension & traction,4,[0-10],1,0,(99-499],146.54
+Suspension & traction,8,[0-10],1,0,(99-499],232.24
+Suspension & traction,40,[31-inf],0,1,(999-1499],1142.87
+Electrical system,5,[0-10],1,0,(0-99],97.84
+Engine,36,[31-inf],0,1,(1499-inf],2232.66
+Frame & body,4,[0-10],1,0,(99-499],148.01
+Breaking system,16,[11-20],0,1,(99-499],220.32
+Engine,1,[0-10],1,0,(0-99],56.72
+Breaking system,6,[0-10],1,0,(0-99],92.08
+Electrical system,10,[0-10],1,0,(99-499],264.6
+Frame & body,10,[0-10],1,0,(99-499],377.78
+Breaking system,9,[0-10],1,0,(99-499],199.86
+Miscellaneous,6,[0-10],1,0,(99-499],164.05
+Frame & body,6,[0-10],1,0,(99-499],219.15
+Frame & body,20,[11-20],0,1,(499-999],759.77
+Suspension & traction,20,[11-20],0,1,(499-999],791.23
+Electrical system,1,[0-10],1,0,(0-99],23.1
+Suspension & traction,8,[0-10],1,0,(99-499],256.56
+Frame & body,1,[0-10],1,0,(0-99],37.06
+Electrical system,4,[0-10],1,0,(0-99],82.43
+Suspension & traction,12,[11-20],0,1,(99-499],487.56
+Miscellaneous,40,[31-inf],0,1,(999-1499],1190.13
+Suspension & traction,1,[0-10],1,0,(0-99],28.83
+Miscellaneous,5,[0-10],1,0,(99-499],147.52
+Suspension & traction,20,[11-20],0,1,(499-999],535.1
+Frame & body,2,[0-10],1,0,(0-99],92.13
+Breaking system,10,[0-10],1,0,(99-499],186.97
+Suspension & traction,16,[11-20],0,1,(99-499],498.83
+Suspension & traction,6,[0-10],1,0,(99-499],195.35
+Breaking system,32,[31-inf],0,1,(499-999],793.07
+Frame & body,9,[0-10],1,0,(99-499],335.62
+Breaking system,2,[0-10],1,0,(0-99],39.69
+Suspension & traction,1,[0-10],1,0,(0-99],36.06
+Electrical system,10,[0-10],1,0,(99-499],286.88
+Electrical system,4,[0-10],1,0,(0-99],95.33
+Frame & body,1,[0-10],1,0,(0-99],45.97
+Suspension & traction,16,[11-20],0,1,(99-499],455.39
+Frame & body,6,[0-10],1,0,(99-499],279.93
+Breaking system,8,[0-10],1,0,(99-499],135.12
+Electrical system,36,[31-inf],0,1,(999-1499],1127.22
+Suspension & traction,9,[0-10],1,0,(99-499],259.6
+Suspension & traction,36,[31-inf],0,1,(999-1499],1384.74
+Breaking system,6,[0-10],1,0,(99-499],137.48
+Frame & body,28,[21-30],0,1,(999-1499],1257.76
+Miscellaneous,5,[0-10],1,0,(0-99],78.53
+Engine,16,[11-20],0,1,(999-1499],1007.15
+Miscellaneous,8,[0-10],1,0,(99-499],194.63
+Breaking system,7,[0-10],1,0,(0-99],88.15
+Breaking system,40,[31-inf],0,1,(499-999],620.87
+Electrical system,6,[0-10],1,0,(99-499],135.49
+Miscellaneous,1,[0-10],1,0,(0-99],19.74
+Electrical system,7,[0-10],1,0,(99-499],147.3
+Breaking system,8,[0-10],0,1,(99-499],177.8
+Frame & body,32,[31-inf],0,1,(999-1499],1341.44
+Miscellaneous,10,[0-10],1,0,(99-499],151.6
+Breaking system,36,[31-inf],0,1,(499-999],579.3
+Breaking system,4,[0-10],1,0,(0-99],96.95
+Engine,1,[0-10],1,0,(0-99],53.06
+Suspension & traction,8,[0-10],0,1,(99-499],274.81
+Suspension & traction,8,[0-10],1,0,(99-499],325.16
+Breaking system,1,[0-10],1,0,(0-99],17.3
+Breaking system,10,[0-10],1,0,(99-499],195.75
+Miscellaneous,28,[21-30],0,1,(499-999],799.87
+Miscellaneous,5,[0-10],1,0,(0-99],89.4
+Frame & body,4,[0-10],0,1,(99-499],182.65
+Frame & body,3,[0-10],1,0,(99-499],121.48
+Suspension & traction,10,[0-10],1,0,(99-499],371.3
+Frame & body,9,[0-10],1,0,(99-499],382.6
+Frame & body,10,[0-10],1,0,(99-499],415.55
+Miscellaneous,5,[0-10],1,0,(99-499],105.97
+Frame & body,4,[0-10],1,0,(99-499],182.63
+Miscellaneous,5,[0-10],1,0,(99-499],100.43
+Suspension & traction,7,[0-10],1,0,(99-499],285.69
+Breaking system,5,[0-10],1,0,(99-499],105.85
+Miscellaneous,1,[0-10],1,0,(0-99],24.63
+Electrical system,28,[21-30],0,1,(499-999],584.36
+Suspension & traction,9,[0-10],1,0,(99-499],341.52
+Breaking system,4,[0-10],1,0,(0-99],65.75
+Breaking system,4,[0-10],1,0,(0-99],48.89
+Electrical system,7,[0-10],1,0,(99-499],203.68
+Frame & body,5,[0-10],1,0,(99-499],202.55
+Electrical system,9,[0-10],1,0,(99-499],170.77
+Breaking system,2,[0-10],1,0,(0-99],40.68
+Suspension & traction,4,[0-10],0,1,(99-499],147.97
+Suspension & traction,4,[0-10],0,1,(99-499],109.32
+Electrical system,10,[0-10],1,0,(99-499],281.0
+Suspension & traction,8,[0-10],0,1,(99-499],227.85
+Breaking system,2,[0-10],1,0,(0-99],39.78
+Breaking system,1,[0-10],1,0,(0-99],13.44
+Miscellaneous,1,[0-10],1,0,(0-99],27.98
+Engine,3,[0-10],1,0,(99-499],199.1
+Frame & body,3,[0-10],1,0,(99-499],137.6
+Frame & body,2,[0-10],1,0,(0-99],72.16
+Suspension & traction,6,[0-10],1,0,(99-499],175.91
+Miscellaneous,6,[0-10],1,0,(99-499],127.27
+Breaking system,36,[31-inf],0,1,(499-999],556.92
+Engine,9,[0-10],1,0,(499-999],537.36
+Suspension & traction,24,[21-30],0,1,(499-999],801.8
+Electrical system,8,[0-10],1,0,(99-499],171.33
+Breaking system,16,[11-20],0,1,(99-499],171.95
+Miscellaneous,1,[0-10],1,0,(0-99],22.07
+Miscellaneous,9,[0-10],1,0,(99-499],150.01
+Breaking system,4,[0-10],1,0,(0-99],97.99
+Engine,5,[0-10],1,0,(99-499],279.73
+Electrical system,40,[31-inf],0,1,(499-999],839.33
+Suspension & traction,24,[21-30],0,1,(499-999],749.76
+Electrical system,10,[0-10],1,0,(99-499],204.92
+Suspension & traction,5,[0-10],1,0,(99-499],154.84
+Breaking system,4,[0-10],1,0,(99-499],99.61
+Electrical system,1,[0-10],1,0,(0-99],31.62
+Frame & body,1,[0-10],1,0,(0-99],40.93
+Electrical system,6,[0-10],1,0,(99-499],146.02
+Breaking system,6,[0-10],1,0,(0-99],93.46
+Miscellaneous,6,[0-10],1,0,(0-99],96.48
+Electrical system,8,[0-10],1,0,(99-499],210.55
+Breaking system,5,[0-10],1,0,(0-99],94.76
+Suspension & traction,8,[0-10],1,0,(99-499],324.16
+Engine,10,[0-10],1,0,(499-999],598.25
+Engine,8,[0-10],1,0,(499-999],519.47
+Electrical system,16,[11-20],0,1,(99-499],442.51
+Frame & body,1,[0-10],1,0,(0-99],35.03
+Breaking system,2,[0-10],1,0,(0-99],45.38
+Electrical system,8,[0-10],1,0,(99-499],187.81
+Miscellaneous,10,[0-10],1,0,(99-499],223.93
+Suspension & traction,7,[0-10],1,0,(99-499],194.45
+Suspension & traction,9,[0-10],1,0,(99-499],258.03
+Breaking system,8,[0-10],1,0,(99-499],147.21
+Miscellaneous,10,[0-10],1,0,(99-499],205.32
+Suspension & traction,1,[0-10],1,0,(0-99],29.83
+Electrical system,10,[0-10],1,0,(99-499],298.98
+Breaking system,1,[0-10],1,0,(0-99],11.62
+Frame & body,5,[0-10],1,0,(99-499],220.81
+Suspension & traction,6,[0-10],1,0,(99-499],166.37
+Suspension & traction,4,[0-10],1,0,(99-499],121.17
+Electrical system,7,[0-10],1,0,(99-499],160.01
+Frame & body,9,[0-10],1,0,(99-499],435.42
+Frame & body,7,[0-10],1,0,(99-499],334.03
+Breaking system,1,[0-10],1,0,(0-99],13.92
+Breaking system,10,[0-10],1,0,(99-499],248.3
+Suspension & traction,4,[0-10],1,0,(99-499],130.98
+Breaking system,40,[31-inf],0,1,(499-999],981.4
+Frame & body,6,[0-10],1,0,(99-499],269.12
+Breaking system,1,[0-10],1,0,(0-99],13.64
+Engine,10,[0-10],1,0,(499-999],641.02
+Breaking system,3,[0-10],1,0,(0-99],53.64
+Breaking system,1,[0-10],1,0,(0-99],11.93
+Suspension & traction,6,[0-10],1,0,(99-499],162.45
+Miscellaneous,3,[0-10],1,0,(0-99],50.54
+Suspension & traction,6,[0-10],1,0,(99-499],165.95
+Miscellaneous,36,[31-inf],0,1,(499-999],690.24
+Suspension & traction,24,[21-30],0,1,(499-999],863.64
+Breaking system,7,[0-10],1,0,(99-499],133.3
+Electrical system,12,[11-20],0,1,(99-499],362.8
+Frame & body,40,[31-inf],0,1,(999-1499],1481.6
+Suspension & traction,4,[0-10],1,0,(99-499],130.65
+Electrical system,6,[0-10],1,0,(99-499],118.93
+Breaking system,7,[0-10],1,0,(99-499],120.93
+Miscellaneous,5,[0-10],1,0,(99-499],103.82
+Breaking system,28,[21-30],0,1,(499-999],575.77
+Electrical system,2,[0-10],1,0,(0-99],44.49
+Suspension & traction,1,[0-10],1,0,(0-99],37.34
+Electrical system,12,[11-20],0,1,(99-499],296.18
+Frame & body,4,[0-10],1,0,(99-499],156.56
+Breaking system,40,[31-inf],0,1,(499-999],534.27
+Electrical system,10,[0-10],1,0,(99-499],296.88
+Suspension & traction,28,[21-30],0,1,(499-999],872.25
+Engine,9,[0-10],1,0,(499-999],576.14
+Suspension & traction,20,[11-20],0,1,(499-999],788.97
+Breaking system,10,[0-10],1,0,(99-499],186.87
+Suspension & traction,3,[0-10],1,0,(99-499],115.04
+Breaking system,10,[0-10],1,0,(99-499],232.0
+Suspension & traction,3,[0-10],1,0,(99-499],113.52
+Frame & body,4,[0-10],1,0,(99-499],196.51
+Miscellaneous,40,[31-inf],0,1,(999-1499],1048.0
+Electrical system,5,[0-10],1,0,(99-499],122.46
+Breaking system,8,[0-10],1,0,(99-499],193.16
+Electrical system,6,[0-10],1,0,(99-499],125.43
+Frame & body,2,[0-10],1,0,(0-99],90.54
+Electrical system,1,[0-10],1,0,(0-99],23.25
+Miscellaneous,10,[0-10],1,0,(99-499],278.5
+Breaking system,4,[0-10],0,1,(0-99],68.23
+Suspension & traction,40,[31-inf],0,1,(999-1499],1402.53
+Frame & body,4,[0-10],1,0,(99-499],146.79
+Breaking system,7,[0-10],1,0,(0-99],84.6
+Suspension & traction,4,[0-10],1,0,(99-499],121.5
+Breaking system,8,[0-10],0,1,(99-499],190.64
+Electrical system,1,[0-10],1,0,(0-99],29.47
+Miscellaneous,8,[0-10],0,1,(99-499],126.49
+Frame & body,6,[0-10],1,0,(99-499],213.69
+Breaking system,5,[0-10],1,0,(0-99],66.3
+Miscellaneous,8,[0-10],0,1,(99-499],239.16
+Frame & body,3,[0-10],1,0,(99-499],122.32
+Frame & body,28,[21-30],0,1,(999-1499],1213.71
+Miscellaneous,40,[31-inf],0,1,(499-999],717.73
+Suspension & traction,8,[0-10],1,0,(99-499],332.75
+Electrical system,4,[0-10],1,0,(99-499],117.16
+Engine,2,[0-10],1,0,(99-499],119.44
+Electrical system,1,[0-10],1,0,(0-99],31.88
+Electrical system,8,[0-10],1,0,(99-499],178.19
+Breaking system,12,[11-20],0,1,(99-499],260.96
+Suspension & traction,1,[0-10],1,0,(0-99],41.47
+Miscellaneous,9,[0-10],1,0,(99-499],236.1
+Electrical system,10,[0-10],1,0,(99-499],221.33
+Miscellaneous,3,[0-10],1,0,(0-99],73.55
+Breaking system,40,[31-inf],0,1,(499-999],995.33
+Suspension & traction,8,[0-10],1,0,(99-499],293.28
+Suspension & traction,9,[0-10],1,0,(99-499],357.38
+Breaking system,3,[0-10],1,0,(0-99],50.97
+Breaking system,3,[0-10],1,0,(0-99],51.1
+Frame & body,4,[0-10],0,1,(99-499],192.21
+Engine,6,[0-10],1,0,(99-499],357.59
+Electrical system,28,[21-30],0,1,(499-999],825.53
+Breaking system,7,[0-10],1,0,(99-499],143.31
+Electrical system,16,[11-20],0,1,(99-499],449.47
+Suspension & traction,5,[0-10],1,0,(99-499],139.81
+Frame & body,3,[0-10],1,0,(99-499],112.37
+Electrical system,6,[0-10],1,0,(99-499],115.26
+Miscellaneous,7,[0-10],1,0,(99-499],122.29
+Suspension & traction,5,[0-10],1,0,(99-499],135.04
+Breaking system,4,[0-10],1,0,(0-99],73.45
+Frame & body,10,[0-10],1,0,(99-499],419.85
+Breaking system,1,[0-10],1,0,(0-99],23.56
+Breaking system,7,[0-10],1,0,(99-499],172.42
+Breaking system,9,[0-10],1,0,(99-499],129.76
+Electrical system,6,[0-10],1,0,(99-499],147.71
+Miscellaneous,20,[11-20],0,1,(499-999],504.63
+Suspension & traction,8,[0-10],1,0,(99-499],318.39
+Breaking system,3,[0-10],1,0,(0-99],47.69
+Electrical system,5,[0-10],1,0,(99-499],112.13
+Suspension & traction,5,[0-10],1,0,(99-499],134.84
+Frame & body,9,[0-10],1,0,(99-499],447.14
+Breaking system,32,[31-inf],0,1,(499-999],698.45
+Electrical system,3,[0-10],1,0,(0-99],96.04
+Electrical system,6,[0-10],1,0,(99-499],187.45
+Frame & body,7,[0-10],1,0,(99-499],312.65
+Frame & body,9,[0-10],1,0,(99-499],369.99
+Electrical system,8,[0-10],1,0,(99-499],180.99
+Breaking system,3,[0-10],1,0,(0-99],41.45
+Breaking system,3,[0-10],1,0,(0-99],70.11
+Suspension & traction,24,[21-30],0,1,(499-999],737.68
+Breaking system,28,[21-30],0,1,(499-999],645.59
+Electrical system,2,[0-10],1,0,(0-99],38.25
+Electrical system,4,[0-10],0,1,(99-499],108.32
+Electrical system,4,[0-10],0,1,(99-499],107.3
+Electrical system,16,[11-20],0,1,(99-499],384.19
+Breaking system,2,[0-10],1,0,(0-99],49.49
+Miscellaneous,36,[31-inf],0,1,(999-1499],1071.96
+Frame & body,7,[0-10],1,0,(99-499],308.09
+Suspension & traction,8,[0-10],1,0,(99-499],295.85
+Suspension & traction,9,[0-10],1,0,(99-499],341.44
+Breaking system,4,[0-10],1,0,(0-99],60.83
+Electrical system,36,[31-inf],0,1,(999-1499],1017.48
+Engine,8,[0-10],1,0,(99-499],429.07
+Engine,5,[0-10],1,0,(99-499],292.33
+Engine,5,[0-10],1,0,(99-499],305.57
+Miscellaneous,4,[0-10],1,0,(0-99],93.53
+Suspension & traction,4,[0-10],0,1,(99-499],157.51
+Miscellaneous,5,[0-10],1,0,(99-499],143.58
+Suspension & traction,2,[0-10],1,0,(0-99],62.56
+Frame & body,40,[31-inf],0,1,(1499-inf],1546.6
+Miscellaneous,3,[0-10],1,0,(0-99],68.87
+Engine,10,[0-10],1,0,(499-999],553.87
+Miscellaneous,10,[0-10],1,0,(99-499],199.83
+Breaking system,12,[11-20],0,1,(99-499],209.68
+Breaking system,1,[0-10],1,0,(0-99],10.42
+Engine,5,[0-10],1,0,(99-499],319.72
+Frame & body,2,[0-10],1,0,(99-499],99.6
+Breaking system,4,[0-10],1,0,(0-99],82.55
+Electrical system,3,[0-10],1,0,(0-99],97.32
+Engine,3,[0-10],1,0,(99-499],169.96
+Frame & body,7,[0-10],1,0,(99-499],344.74
+Breaking system,5,[0-10],1,0,(0-99],74.79
+Suspension & traction,3,[0-10],1,0,(99-499],109.48
+Breaking system,9,[0-10],1,0,(99-499],156.46
+Breaking system,1,[0-10],1,0,(0-99],16.24
+Suspension & traction,10,[0-10],1,0,(99-499],279.03
+Miscellaneous,1,[0-10],1,0,(0-99],18.4
+Breaking system,10,[0-10],1,0,(99-499],112.48
+Suspension & traction,1,[0-10],1,0,(0-99],35.97
+Frame & body,40,[31-inf],0,1,(999-1499],1496.6
+Suspension & traction,8,[0-10],0,1,(99-499],216.97
+Electrical system,8,[0-10],1,0,(99-499],153.28
+Miscellaneous,4,[0-10],1,0,(99-499],106.91
+Electrical system,4,[0-10],1,0,(0-99],78.65
+Miscellaneous,1,[0-10],1,0,(0-99],19.32
+Miscellaneous,3,[0-10],1,0,(0-99],89.4
+Electrical system,9,[0-10],1,0,(99-499],263.38
+Miscellaneous,4,[0-10],1,0,(99-499],102.31
+Frame & body,7,[0-10],1,0,(99-499],301.46
+Frame & body,6,[0-10],1,0,(99-499],257.95
+Suspension & traction,10,[0-10],1,0,(99-499],317.1
+Electrical system,5,[0-10],1,0,(0-99],91.8
+Breaking system,2,[0-10],1,0,(0-99],44.59
+Electrical system,10,[0-10],1,0,(99-499],207.9
+Suspension & traction,8,[0-10],0,1,(99-499],263.57
+Miscellaneous,8,[0-10],1,0,(99-499],141.91
+Suspension & traction,10,[0-10],1,0,(99-499],372.6
+Suspension & traction,6,[0-10],1,0,(99-499],205.73
+Electrical system,5,[0-10],1,0,(99-499],155.03
+Breaking system,5,[0-10],1,0,(99-499],120.11
+Miscellaneous,3,[0-10],1,0,(0-99],89.8
+Miscellaneous,4,[0-10],1,0,(0-99],95.23
+Suspension & traction,1,[0-10],1,0,(0-99],31.62
+Electrical system,6,[0-10],1,0,(99-499],168.84
+Frame & body,5,[0-10],1,0,(99-499],242.84
+Frame & body,1,[0-10],1,0,(0-99],43.95
+Breaking system,4,[0-10],1,0,(0-99],82.03
+Suspension & traction,5,[0-10],1,0,(99-499],193.37
+Electrical system,3,[0-10],1,0,(0-99],82.59
+Suspension & traction,10,[0-10],1,0,(99-499],337.98
+Frame & body,1,[0-10],1,0,(0-99],48.08
+Engine,32,[31-inf],0,1,(1499-inf],1827.04
+Miscellaneous,1,[0-10],1,0,(0-99],21.44
+Electrical system,4,[0-10],1,0,(99-499],108.38
+Frame & body,1,[0-10],1,0,(0-99],42.41
+Engine,6,[0-10],1,0,(99-499],399.71
+Electrical system,2,[0-10],1,0,(0-99],48.87
+Suspension & traction,24,[21-30],0,1,(499-999],962.8
+Breaking system,2,[0-10],1,0,(0-99],49.96
+Breaking system,9,[0-10],1,0,(99-499],109.4
+Breaking system,1,[0-10],1,0,(0-99],17.58
+Frame & body,4,[0-10],1,0,(99-499],197.03
+Miscellaneous,24,[21-30],0,1,(99-499],426.4
+Frame & body,5,[0-10],1,0,(99-499],222.72
+Breaking system,8,[0-10],0,1,(0-99],95.31
+Engine,10,[0-10],1,0,(499-999],522.5
+Suspension & traction,1,[0-10],1,0,(0-99],41.62
+Breaking system,9,[0-10],1,0,(99-499],191.9
+Miscellaneous,8,[0-10],1,0,(99-499],232.63
+Electrical system,6,[0-10],1,0,(99-499],176.99
+Breaking system,10,[0-10],1,0,(99-499],116.28
+Breaking system,3,[0-10],1,0,(0-99],51.21
+Miscellaneous,10,[0-10],1,0,(99-499],257.4
+Suspension & traction,28,[21-30],0,1,(999-1499],1132.13
+Electrical system,36,[31-inf],0,1,(499-999],940.14
+Breaking system,10,[0-10],1,0,(99-499],114.75
+Engine,7,[0-10],1,0,(99-499],450.18
+Breaking system,10,[0-10],1,0,(99-499],151.82
+Suspension & traction,8,[0-10],1,0,(99-499],314.64
+Miscellaneous,24,[21-30],0,1,(499-999],642.48
+Electrical system,3,[0-10],1,0,(0-99],78.0
+Breaking system,8,[0-10],0,1,(99-499],190.93
+Electrical system,1,[0-10],1,0,(0-99],26.72
+Suspension & traction,2,[0-10],1,0,(0-99],61.58
+Electrical system,3,[0-10],1,0,(0-99],57.41
+Electrical system,10,[0-10],1,0,(99-499],242.47
+Electrical system,2,[0-10],1,0,(0-99],56.5
+Suspension & traction,3,[0-10],1,0,(0-99],88.75
+Breaking system,28,[21-30],0,1,(499-999],612.78
+Miscellaneous,1,[0-10],1,0,(0-99],22.29
+Breaking system,4,[0-10],1,0,(0-99],48.21
+Breaking system,9,[0-10],1,0,(99-499],192.82
+Miscellaneous,16,[11-20],0,1,(99-499],413.04
+Suspension & traction,5,[0-10],1,0,(99-499],136.02
+Frame & body,2,[0-10],1,0,(0-99],79.82
+Frame & body,7,[0-10],1,0,(99-499],319.64
+Suspension & traction,10,[0-10],1,0,(99-499],412.3
+Suspension & traction,36,[31-inf],0,1,(999-1499],1062.0
+Frame & body,2,[0-10],1,0,(0-99],71.46
+Suspension & traction,9,[0-10],1,0,(99-499],357.58
+Engine,3,[0-10],1,0,(99-499],186.7
+Frame & body,10,[0-10],1,0,(99-499],424.25
+Miscellaneous,4,[0-10],1,0,(0-99],97.68
+Frame & body,2,[0-10],1,0,(0-99],75.1
+Suspension & traction,9,[0-10],1,0,(99-499],374.6
+Suspension & traction,2,[0-10],1,0,(0-99],62.76
+Frame & body,12,[11-20],0,1,(499-999],577.26
+Breaking system,3,[0-10],1,0,(0-99],38.51
+Electrical system,12,[11-20],0,1,(99-499],252.52
+Breaking system,20,[11-20],0,1,(99-499],474.97
+Electrical system,7,[0-10],1,0,(99-499],216.53
+Electrical system,32,[31-inf],0,1,(499-999],694.4
+Electrical system,5,[0-10],1,0,(99-499],126.6
+Electrical system,7,[0-10],1,0,(99-499],150.44
+Breaking system,1,[0-10],1,0,(0-99],16.07
+Suspension & traction,8,[0-10],1,0,(99-499],227.8
+Electrical system,40,[31-inf],0,1,(999-1499],1213.13
+Engine,1,[0-10],1,0,(0-99],54.17
+Suspension & traction,8,[0-10],1,0,(99-499],240.16
+Breaking system,40,[31-inf],0,1,(499-999],820.33
+Suspension & traction,8,[0-10],1,0,(99-499],258.68
+Suspension & traction,7,[0-10],1,0,(99-499],229.05
+Suspension & traction,8,[0-10],1,0,(99-499],325.99
+Breaking system,8,[0-10],1,0,(0-99],96.23
+Electrical system,6,[0-10],1,0,(99-499],146.53
+Suspension & traction,9,[0-10],1,0,(99-499],274.95
+Miscellaneous,8,[0-10],1,0,(99-499],238.27
+Miscellaneous,4,[0-10],1,0,(99-499],103.11
+Breaking system,36,[31-inf],0,1,(499-999],593.76
+Engine,3,[0-10],1,0,(99-499],184.36
+Frame & body,7,[0-10],1,0,(99-499],247.73
+Suspension & traction,9,[0-10],1,0,(99-499],253.86
+Engine,40,[31-inf],0,1,(1499-inf],2324.2
+Electrical system,5,[0-10],1,0,(0-99],95.52
+Suspension & traction,4,[0-10],1,0,(99-499],137.69
+Electrical system,24,[21-30],0,1,(499-999],799.32
+Suspension & traction,1,[0-10],1,0,(0-99],30.04
+Miscellaneous,40,[31-inf],0,1,(999-1499],1055.4
+Suspension & traction,3,[0-10],1,0,(99-499],114.16
+Electrical system,8,[0-10],1,0,(99-499],167.09
+Suspension & traction,40,[31-inf],0,1,(999-1499],1080.8
+Suspension & traction,8,[0-10],1,0,(99-499],327.28
+Miscellaneous,12,[11-20],0,1,(99-499],257.04
+Frame & body,7,[0-10],1,0,(99-499],330.24
+Miscellaneous,12,[11-20],0,1,(99-499],196.16
+Breaking system,5,[0-10],1,0,(0-99],78.52
+Engine,28,[21-30],0,1,(1499-inf],1661.19
+Breaking system,2,[0-10],1,0,(0-99],43.97
+Breaking system,5,[0-10],1,0,(0-99],59.95
+Electrical system,3,[0-10],1,0,(0-99],93.99
+Suspension & traction,6,[0-10],1,0,(99-499],232.7
+Engine,28,[21-30],0,1,(1499-inf],1704.78
+Frame & body,10,[0-10],1,0,(99-499],449.57
+Electrical system,24,[21-30],0,1,(499-999],564.24
+Frame & body,5,[0-10],1,0,(99-499],222.86
+Miscellaneous,7,[0-10],1,0,(99-499],165.76
+Suspension & traction,5,[0-10],1,0,(99-499],148.65
+Frame & body,36,[31-inf],0,1,(999-1499],1423.92
+Breaking system,8,[0-10],0,1,(99-499],133.23
+Electrical system,36,[31-inf],0,1,(499-999],729.0
+Suspension & traction,1,[0-10],1,0,(0-99],31.17
+Frame & body,6,[0-10],1,0,(99-499],292.13
+Suspension & traction,8,[0-10],1,0,(99-499],295.81
+Frame & body,40,[31-inf],0,1,(999-1499],1438.73
+Electrical system,1,[0-10],1,0,(0-99],29.96
+Suspension & traction,16,[11-20],0,1,(99-499],475.49
+Suspension & traction,2,[0-10],1,0,(0-99],55.39
+Suspension & traction,4,[0-10],1,0,(99-499],156.05
+Suspension & traction,5,[0-10],1,0,(99-499],166.9
+Suspension & traction,6,[0-10],1,0,(99-499],172.21
+Breaking system,2,[0-10],1,0,(0-99],49.93
+Electrical system,9,[0-10],1,0,(99-499],173.32
+Suspension & traction,1,[0-10],1,0,(0-99],41.32
+Breaking system,4,[0-10],1,0,(0-99],44.3
+Electrical system,6,[0-10],1,0,(99-499],181.3
+Electrical system,1,[0-10],1,0,(0-99],32.86
+Suspension & traction,6,[0-10],1,0,(99-499],183.99
+Breaking system,2,[0-10],1,0,(0-99],31.09
+Miscellaneous,5,[0-10],1,0,(0-99],81.36
+Electrical system,6,[0-10],1,0,(99-499],146.26
+Miscellaneous,4,[0-10],1,0,(0-99],64.69
+Breaking system,10,[0-10],1,0,(99-499],145.92
+Electrical system,5,[0-10],1,0,(0-99],96.07
+Suspension & traction,40,[31-inf],0,1,(1499-inf],1604.33
+Breaking system,5,[0-10],1,0,(0-99],93.14
+Frame & body,9,[0-10],1,0,(99-499],449.94
+Breaking system,36,[31-inf],0,1,(499-999],893.82
+Electrical system,4,[0-10],1,0,(99-499],129.31
+Engine,4,[0-10],1,0,(99-499],234.47
+Breaking system,32,[31-inf],0,1,(499-999],567.84
+Suspension & traction,6,[0-10],1,0,(99-499],225.91
+Breaking system,8,[0-10],1,0,(99-499],196.39
+Breaking system,7,[0-10],1,0,(99-499],169.8
+Suspension & traction,28,[21-30],0,1,(499-999],943.51
+Suspension & traction,4,[0-10],1,0,(99-499],117.01
+Miscellaneous,20,[11-20],0,1,(499-999],599.27
+Frame & body,20,[11-20],0,1,(499-999],829.7
+Frame & body,2,[0-10],1,0,(0-99],86.96
+Frame & body,10,[0-10],1,0,(99-499],420.43
+Electrical system,10,[0-10],1,0,(99-499],253.23
+Breaking system,1,[0-10],1,0,(0-99],11.05
+Suspension & traction,7,[0-10],1,0,(99-499],284.3
+Engine,40,[31-inf],0,1,(1499-inf],2546.33
+Breaking system,3,[0-10],1,0,(0-99],53.67
+Miscellaneous,7,[0-10],1,0,(99-499],114.59
+Frame & body,3,[0-10],1,0,(99-499],112.92
+Miscellaneous,28,[21-30],0,1,(99-499],420.61
+Breaking system,3,[0-10],1,0,(0-99],47.87
+Suspension & traction,36,[31-inf],0,1,(999-1499],1114.74
+Electrical system,2,[0-10],1,0,(0-99],52.68
+Frame & body,5,[0-10],1,0,(99-499],218.85
+Breaking system,2,[0-10],1,0,(0-99],45.89
+Suspension & traction,1,[0-10],1,0,(0-99],29.24
+Miscellaneous,6,[0-10],1,0,(99-499],126.77
+Suspension & traction,8,[0-10],1,0,(99-499],284.56
+Frame & body,7,[0-10],1,0,(99-499],273.65
+Suspension & traction,5,[0-10],1,0,(99-499],148.6
+Electrical system,5,[0-10],1,0,(99-499],112.08
+Electrical system,28,[21-30],0,1,(499-999],788.34
+Suspension & traction,2,[0-10],1,0,(0-99],63.43
+Electrical system,2,[0-10],1,0,(0-99],53.26
+Breaking system,4,[0-10],1,0,(0-99],96.45
+Frame & body,28,[21-30],0,1,(999-1499],1071.51
+Electrical system,7,[0-10],1,0,(99-499],151.28
+Suspension & traction,7,[0-10],1,0,(99-499],222.52
+Frame & body,28,[21-30],0,1,(999-1499],1392.53
+Electrical system,4,[0-10],1,0,(0-99],98.45
+Engine,36,[31-inf],0,1,(1499-inf],2186.16
+Breaking system,16,[11-20],0,1,(99-499],384.69
+Miscellaneous,7,[0-10],1,0,(99-499],157.55
+Electrical system,12,[11-20],0,1,(99-499],221.18
+Engine,4,[0-10],0,1,(99-499],226.01
+Electrical system,4,[0-10],1,0,(0-99],94.33
+Suspension & traction,4,[0-10],1,0,(99-499],130.81
+Electrical system,6,[0-10],1,0,(99-499],130.61
+Frame & body,4,[0-10],1,0,(99-499],198.49
+Breaking system,16,[11-20],0,1,(99-499],235.47
+Frame & body,2,[0-10],1,0,(0-99],90.96
+Breaking system,5,[0-10],1,0,(0-99],86.89
+Miscellaneous,7,[0-10],1,0,(99-499],146.76
+Suspension & traction,8,[0-10],1,0,(99-499],285.21
+Electrical system,10,[0-10],1,0,(99-499],193.12
+Breaking system,8,[0-10],1,0,(0-99],82.92
+Breaking system,2,[0-10],1,0,(0-99],28.23
+Engine,10,[0-10],1,0,(499-999],530.18
+Breaking system,1,[0-10],1,0,(0-99],17.75
+Breaking system,8,[0-10],0,1,(0-99],97.97
+Frame & body,1,[0-10],1,0,(0-99],40.48
+Suspension & traction,4,[0-10],1,0,(99-499],123.65
+Frame & body,36,[31-inf],0,1,(1499-inf],1784.88
+Breaking system,28,[21-30],0,1,(99-499],488.74
+Electrical system,7,[0-10],1,0,(99-499],232.81
+Suspension & traction,6,[0-10],1,0,(99-499],220.11
+Frame & body,24,[21-30],0,1,(499-999],940.88
+Suspension & traction,7,[0-10],1,0,(99-499],207.49
+Electrical system,9,[0-10],1,0,(99-499],226.98
+Breaking system,10,[0-10],1,0,(99-499],182.68
+Miscellaneous,8,[0-10],1,0,(99-499],177.61
+Breaking system,4,[0-10],1,0,(0-99],48.21
+Suspension & traction,9,[0-10],1,0,(99-499],257.37
+Electrical system,3,[0-10],1,0,(0-99],57.84
+Electrical system,5,[0-10],1,0,(99-499],156.59
+Engine,10,[0-10],1,0,(499-999],637.63
+Breaking system,10,[0-10],1,0,(99-499],212.6
+Frame & body,32,[31-inf],0,1,(1499-inf],1549.49
+Electrical system,4,[0-10],1,0,(99-499],104.99
+Electrical system,1,[0-10],1,0,(0-99],32.13
+Electrical system,9,[0-10],1,0,(99-499],187.34
+Engine,2,[0-10],1,0,(99-499],132.19
+Breaking system,40,[31-inf],0,1,(99-499],464.4
+Suspension & traction,8,[0-10],1,0,(99-499],287.01
+Frame & body,12,[11-20],0,1,(499-999],593.6
+Breaking system,2,[0-10],1,0,(0-99],25.73
+Suspension & traction,9,[0-10],1,0,(99-499],245.38
+Engine,8,[0-10],1,0,(99-499],414.33
+Suspension & traction,2,[0-10],1,0,(0-99],61.07
+Frame & body,10,[0-10],1,0,(99-499],390.62
+Miscellaneous,9,[0-10],1,0,(99-499],251.7
+Breaking system,4,[0-10],1,0,(0-99],98.17
+Frame & body,8,[0-10],1,0,(99-499],363.33
+Miscellaneous,5,[0-10],1,0,(99-499],119.68
+Frame & body,1,[0-10],1,0,(0-99],45.83
+Suspension & traction,4,[0-10],1,0,(99-499],163.76
+Suspension & traction,4,[0-10],1,0,(99-499],115.83
+Electrical system,8,[0-10],0,1,(99-499],153.83
+Miscellaneous,1,[0-10],1,0,(0-99],17.1
+Frame & body,6,[0-10],1,0,(99-499],254.51
+Suspension & traction,4,[0-10],1,0,(99-499],151.65
+Breaking system,40,[31-inf],0,1,(499-999],567.93
+Frame & body,40,[31-inf],0,1,(1499-inf],1846.13
+Suspension & traction,9,[0-10],1,0,(99-499],241.92
+Suspension & traction,10,[0-10],1,0,(99-499],297.55
+Breaking system,4,[0-10],0,1,(0-99],94.65
+Suspension & traction,3,[0-10],1,0,(0-99],97.06
+Breaking system,4,[0-10],0,1,(0-99],67.65
+Frame & body,5,[0-10],1,0,(99-499],194.38
+Suspension & traction,3,[0-10],1,0,(99-499],124.85
+Electrical system,4,[0-10],1,0,(99-499],100.79
+Miscellaneous,8,[0-10],0,1,(99-499],217.79
+Breaking system,9,[0-10],1,0,(99-499],189.6
+Breaking system,8,[0-10],1,0,(99-499],100.56
+Suspension & traction,32,[31-inf],0,1,(999-1499],1272.27
+Breaking system,1,[0-10],1,0,(0-99],10.92
+Electrical system,1,[0-10],1,0,(0-99],24.37
+Breaking system,10,[0-10],1,0,(99-499],221.05
+Frame & body,9,[0-10],1,0,(99-499],448.86
+Suspension & traction,4,[0-10],1,0,(99-499],115.53
+Electrical system,9,[0-10],1,0,(99-499],262.59
+Suspension & traction,16,[11-20],0,1,(499-999],503.49
+Electrical system,4,[0-10],1,0,(99-499],110.76
+Electrical system,7,[0-10],1,0,(99-499],152.07
+Suspension & traction,4,[0-10],1,0,(99-499],150.35
+Electrical system,2,[0-10],1,0,(0-99],42.2
+Suspension & traction,5,[0-10],1,0,(99-499],152.26
+Suspension & traction,6,[0-10],1,0,(99-499],233.17
+Frame & body,8,[0-10],1,0,(99-499],367.89
+Breaking system,2,[0-10],1,0,(0-99],49.75
+Frame & body,9,[0-10],1,0,(99-499],358.08
+Frame & body,5,[0-10],1,0,(99-499],187.71
+Electrical system,24,[21-30],0,1,(499-999],698.04
+Breaking system,3,[0-10],1,0,(0-99],35.44
+Breaking system,4,[0-10],0,1,(0-99],94.41
+Breaking system,40,[31-inf],0,1,(499-999],806.6
+Suspension & traction,5,[0-10],1,0,(99-499],201.97
+Miscellaneous,3,[0-10],1,0,(0-99],79.96
+Miscellaneous,2,[0-10],1,0,(0-99],41.08
+Breaking system,1,[0-10],1,0,(0-99],13.94
+Suspension & traction,9,[0-10],1,0,(99-499],365.94
+Frame & body,10,[0-10],1,0,(99-499],406.7
+Suspension & traction,36,[31-inf],0,1,(999-1499],1103.04
+Breaking system,6,[0-10],1,0,(99-499],107.29
+Suspension & traction,8,[0-10],1,0,(99-499],320.03
+Suspension & traction,3,[0-10],1,0,(0-99],88.24
+Electrical system,5,[0-10],1,0,(99-499],107.04
+Frame & body,16,[11-20],0,1,(499-999],665.31
+Breaking system,4,[0-10],1,0,(0-99],45.25
+Frame & body,6,[0-10],1,0,(99-499],262.13
+Frame & body,32,[31-inf],0,1,(1499-inf],1538.29
+Breaking system,5,[0-10],1,0,(0-99],88.8
+Suspension & traction,8,[0-10],1,0,(99-499],270.12
+Suspension & traction,1,[0-10],1,0,(0-99],28.05
+Electrical system,1,[0-10],1,0,(0-99],32.52
+Frame & body,6,[0-10],1,0,(99-499],237.02
+Suspension & traction,8,[0-10],1,0,(99-499],267.91
+Frame & body,5,[0-10],1,0,(99-499],238.26
+Breaking system,3,[0-10],1,0,(0-99],51.38
+Suspension & traction,7,[0-10],1,0,(99-499],269.73
+Breaking system,4,[0-10],1,0,(0-99],94.36
+Suspension & traction,1,[0-10],1,0,(0-99],29.22
+Electrical system,10,[0-10],1,0,(99-499],289.12
+Breaking system,7,[0-10],1,0,(99-499],136.96
+Breaking system,4,[0-10],1,0,(0-99],58.1
+Miscellaneous,6,[0-10],1,0,(99-499],153.88
+Engine,8,[0-10],1,0,(99-499],473.23
+Frame & body,40,[31-inf],0,1,(999-1499],1436.67
+Suspension & traction,7,[0-10],1,0,(99-499],239.88
+Frame & body,20,[11-20],0,1,(499-999],715.67
+Suspension & traction,4,[0-10],1,0,(99-499],143.96
+Breaking system,6,[0-10],1,0,(99-499],108.75
+Electrical system,10,[0-10],1,0,(99-499],274.92
+Frame & body,5,[0-10],1,0,(99-499],187.31
+Breaking system,9,[0-10],1,0,(99-499],125.97
+Suspension & traction,6,[0-10],1,0,(99-499],249.92
+Suspension & traction,2,[0-10],1,0,(0-99],73.44
+Suspension & traction,16,[11-20],0,1,(499-999],609.01
+Electrical system,5,[0-10],1,0,(99-499],152.4
+Suspension & traction,1,[0-10],1,0,(0-99],37.48
+Electrical system,7,[0-10],1,0,(99-499],216.29
+Frame & body,2,[0-10],1,0,(0-99],97.77
+Electrical system,7,[0-10],1,0,(99-499],139.21
+Breaking system,5,[0-10],1,0,(99-499],105.43
+Electrical system,3,[0-10],1,0,(0-99],57.9
+Electrical system,16,[11-20],0,1,(99-499],363.63
+Electrical system,4,[0-10],1,0,(99-499],101.93
+Breaking system,4,[0-10],1,0,(0-99],70.26
+Miscellaneous,6,[0-10],1,0,(99-499],119.43
+Suspension & traction,2,[0-10],1,0,(0-99],78.08
+Frame & body,4,[0-10],0,1,(99-499],159.41
+Electrical system,2,[0-10],1,0,(0-99],47.9
+Electrical system,20,[11-20],0,1,(99-499],425.77
+Suspension & traction,36,[31-inf],0,1,(499-999],973.74
+Electrical system,20,[11-20],0,1,(99-499],368.97
+Miscellaneous,9,[0-10],1,0,(99-499],144.46
+Breaking system,12,[11-20],0,1,(99-499],182.56
+Breaking system,1,[0-10],1,0,(0-99],16.45
+Suspension & traction,28,[21-30],0,1,(999-1499],1036.93
+Electrical system,4,[0-10],1,0,(99-499],109.51
+Breaking system,1,[0-10],1,0,(0-99],17.06
+Electrical system,3,[0-10],1,0,(0-99],72.86
+Breaking system,3,[0-10],1,0,(0-99],51.17
+Frame & body,6,[0-10],1,0,(99-499],293.39
+Miscellaneous,3,[0-10],1,0,(0-99],56.16
+Electrical system,8,[0-10],0,1,(99-499],207.56
+Suspension & traction,8,[0-10],0,1,(99-499],259.12
+Miscellaneous,28,[21-30],0,1,(499-999],603.77
+Breaking system,2,[0-10],1,0,(0-99],43.18
+Breaking system,12,[11-20],0,1,(99-499],158.3
+Breaking system,9,[0-10],1,0,(99-499],224.73
+Engine,8,[0-10],1,0,(99-499],443.28
+Miscellaneous,6,[0-10],1,0,(99-499],138.26
+Breaking system,7,[0-10],1,0,(99-499],141.7
+Suspension & traction,7,[0-10],1,0,(99-499],205.36
+Breaking system,3,[0-10],1,0,(0-99],40.18
+Miscellaneous,3,[0-10],1,0,(0-99],75.84
+Breaking system,20,[11-20],0,1,(99-499],337.8
+Electrical system,3,[0-10],1,0,(0-99],73.82
+Electrical system,7,[0-10],1,0,(99-499],128.43
+Miscellaneous,3,[0-10],1,0,(0-99],59.3
+Breaking system,4,[0-10],1,0,(0-99],66.53
+Engine,20,[11-20],0,1,(999-1499],1204.3
+Electrical system,7,[0-10],1,0,(99-499],200.4
+Suspension & traction,12,[11-20],0,1,(99-499],444.84
+Electrical system,10,[0-10],1,0,(99-499],303.9
+Electrical system,10,[0-10],1,0,(99-499],285.63
+Electrical system,4,[0-10],1,0,(0-99],85.89
+Engine,5,[0-10],1,0,(99-499],295.72
+Engine,10,[0-10],1,0,(499-999],646.45
+Frame & body,7,[0-10],1,0,(99-499],280.27
+Miscellaneous,32,[31-inf],0,1,(499-999],813.44
+Miscellaneous,8,[0-10],0,1,(99-499],231.2
+Electrical system,32,[31-inf],0,1,(499-999],920.37
+Electrical system,6,[0-10],1,0,(99-499],170.21
+Suspension & traction,6,[0-10],1,0,(99-499],184.42
+Electrical system,9,[0-10],1,0,(99-499],295.83
+Breaking system,32,[31-inf],0,1,(99-499],320.96
+Electrical system,12,[11-20],0,1,(99-499],393.64
+Frame & body,5,[0-10],1,0,(99-499],241.23
+Electrical system,20,[11-20],0,1,(499-999],548.13
